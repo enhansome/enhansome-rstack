@@ -35,7 +35,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-06T09:43:19Z",
+            "last_commit": "2026-08-13T14:19:18Z",
             "owner": "rstackjs",
             "repo": "rstack-design-resources",
             "stars": 17
@@ -55,10 +55,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T20:29:14Z",
+            "last_commit": "2026-08-13T17:54:13Z",
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44808
+            "stars": 44811
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-09T10:22:28Z",
             "owner": "extension-js",
             "repo": "extension.js",
-            "stars": 5061
+            "stars": 5062
           }
         },
         {
@@ -97,10 +97,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-28T12:29:15Z",
+            "last_commit": "2026-08-13T11:53:16Z",
             "owner": "basementstudio",
             "repo": "xmcp",
-            "stars": 1310
+            "stars": 1311
           }
         },
         {
@@ -111,7 +111,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-29T04:32:24Z",
+            "last_commit": "2026-08-13T08:30:41Z",
             "owner": "esmnext",
             "repo": "esmx",
             "stars": 676
@@ -153,7 +153,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:30:14Z",
+            "last_commit": "2026-08-14T03:47:42Z",
             "owner": "rstackjs",
             "repo": "storybook-rsbuild",
             "stars": 155
@@ -170,7 +170,7 @@
             "last_commit": "2026-08-03T19:17:34Z",
             "owner": "addfox",
             "repo": "addfox",
-            "stars": 121
+            "stars": 122
           }
         },
         {
@@ -203,6 +203,20 @@
         },
         {
           "node_type": "item",
+          "title": "Rshono",
+          "description": "Minimalist web framework based on Hono, Rspack and React Server Components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T16:18:29Z",
+            "owner": "rshono",
+            "repo": "rshono",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
           "title": "electron-rsbuild",
           "description": "The Rsbuild-based electron build tool.",
           "children": [],
@@ -227,20 +241,6 @@
             "owner": "tbocek",
             "repo": "preveltekit",
             "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rshono",
-          "description": "Minimalist web framework based on Hono, Rspack and React Server Components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T16:24:25Z",
-            "owner": "rshono",
-            "repo": "rshono",
-            "stars": 33
           }
         },
         {
@@ -304,10 +304,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-13T00:52:14Z",
+            "last_commit": "2026-08-14T00:51:27Z",
             "owner": "zxwk1998",
             "repo": "vue-admin-better",
-            "stars": 18892
+            "stars": 18891
           }
         },
         {
@@ -576,7 +576,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:46:48Z",
+            "last_commit": "2026-08-14T05:50:18Z",
             "owner": "Trapar-waves",
             "repo": "react-antd-pro",
             "stars": 4
@@ -590,7 +590,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T10:38:33Z",
+            "last_commit": "2026-08-13T14:50:12Z",
             "owner": "Trapar-waves",
             "repo": "react-tanstack",
             "stars": 4
@@ -618,7 +618,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T03:00:24Z",
+            "last_commit": "2026-08-13T19:07:45Z",
             "owner": "Trapar-waves",
             "repo": "vue-tailwind",
             "stars": 3
@@ -632,7 +632,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:03:24Z",
+            "last_commit": "2026-08-13T14:34:08Z",
             "owner": "Trapar-waves",
             "repo": "react-mantine-tailwind",
             "stars": 2
@@ -688,7 +688,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:12:03Z",
+            "last_commit": "2026-08-13T13:14:29Z",
             "owner": "Trapar-waves",
             "repo": "react-tailwind",
             "stars": 0
@@ -742,7 +742,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:50:21Z",
+            "last_commit": "2026-08-13T19:45:44Z",
             "owner": "Trapar-waves",
             "repo": "llm-template",
             "stars": 3
@@ -801,7 +801,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T16:23:05Z",
+            "last_commit": "2026-08-13T07:21:45Z",
             "owner": "webpack",
             "repo": "webpack-bundle-analyzer",
             "stars": 12662
@@ -843,10 +843,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T23:58:09Z",
+            "last_commit": "2026-08-14T00:19:46Z",
             "owner": "module-federation",
             "repo": "core",
-            "stars": 2612
+            "stars": 2613
           }
         },
         {
@@ -927,10 +927,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T01:52:45Z",
+            "last_commit": "2026-08-14T01:28:09Z",
             "owner": "web-infra-dev",
             "repo": "rsdoctor",
-            "stars": 1139
+            "stars": 1138
           }
         },
         {
@@ -1395,10 +1395,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T16:06:39Z",
+            "last_commit": "2026-08-13T21:16:32Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97225
+            "stars": 97243
           }
         },
         {
@@ -1409,10 +1409,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T01:40:45Z",
+            "last_commit": "2026-08-14T02:14:27Z",
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19736
+            "stars": 19737
           }
         },
         {
@@ -1426,7 +1426,7 @@
             "last_commit": "2026-03-01T18:35:20Z",
             "owner": "gregberge",
             "repo": "svgr",
-            "stars": 11049
+            "stars": 11050
           }
         },
         {
@@ -1647,7 +1647,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T14:12:09Z",
+            "last_commit": "2026-08-14T05:39:03Z",
             "owner": "oxc-project",
             "repo": "oxc-webpack-loader",
             "stars": 17
@@ -1714,7 +1714,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T10:47:33Z",
+            "last_commit": "2026-08-13T07:41:06Z",
             "owner": "rstackjs",
             "repo": "rsbuild-plugin-rsc",
             "stars": 18
@@ -1790,10 +1790,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T06:06:07Z",
+            "last_commit": "2026-08-14T05:57:45Z",
             "owner": "ubugeeei-prod",
             "repo": "vize",
-            "stars": 868
+            "stars": 870
           }
         },
         {
@@ -1984,10 +1984,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:52:13Z",
+            "last_commit": "2026-08-14T03:26:23Z",
             "owner": "daangn",
             "repo": "seed-design",
-            "stars": 1037
+            "stars": 1042
           }
         },
         {
@@ -1998,10 +1998,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:18:55Z",
+            "last_commit": "2026-08-14T03:27:14Z",
             "owner": "web-infra-dev",
             "repo": "rslib",
-            "stars": 1001
+            "stars": 1002
           }
         },
         {
@@ -2012,7 +2012,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T10:11:24Z",
+            "last_commit": "2026-08-13T15:52:07Z",
             "owner": "rstackjs",
             "repo": "rsbuild-plugin-tailwindcss",
             "stars": 53
@@ -2250,7 +2250,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T10:47:40Z",
+            "last_commit": "2026-08-14T03:20:05Z",
             "owner": "rstackjs",
             "repo": "rsbuild-plugin-virtual-module",
             "stars": 8
@@ -2600,7 +2600,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T02:56:35Z",
+            "last_commit": "2026-08-13T16:08:28Z",
             "owner": "colinaaa",
             "repo": "rsbuild-plugin-mcp",
             "stars": 3
@@ -2839,7 +2839,7 @@
             "last_commit": "2026-07-13T01:33:41Z",
             "owner": "TypeStrong",
             "repo": "typedoc",
-            "stars": 8443
+            "stars": 8441
           }
         },
         {
@@ -2853,7 +2853,7 @@
             "last_commit": "2026-07-06T18:43:27Z",
             "owner": "jpmonette",
             "repo": "feed",
-            "stars": 1403
+            "stars": 1404
           }
         },
         {
@@ -3265,7 +3265,7 @@
             "last_commit": "2026-05-20T04:37:54Z",
             "owner": "unplugin",
             "repo": "unplugin-vue-components",
-            "stars": 4295
+            "stars": 4294
           }
         },
         {
@@ -3279,7 +3279,7 @@
             "last_commit": "2026-08-03T01:46:59Z",
             "owner": "unplugin",
             "repo": "unplugin-auto-import",
-            "stars": 3790
+            "stars": 3789
           }
         },
         {
@@ -3290,10 +3290,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T00:13:37Z",
+            "last_commit": "2026-08-13T22:11:09Z",
             "owner": "vue-macros",
             "repo": "vue-macros",
-            "stars": 1983
+            "stars": 1984
           }
         },
         {
@@ -3318,7 +3318,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T04:02:54Z",
+            "last_commit": "2026-08-14T05:49:17Z",
             "owner": "gajus",
             "repo": "zod-compiler",
             "stars": 741
@@ -3346,7 +3346,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T05:56:01Z",
+            "last_commit": "2026-08-13T15:56:46Z",
             "owner": "unplugin",
             "repo": "unplugin-macros",
             "stars": 278
@@ -3360,7 +3360,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T23:53:46Z",
+            "last_commit": "2026-08-13T10:54:22Z",
             "owner": "intlify",
             "repo": "bundle-tools",
             "stars": 271
@@ -3430,7 +3430,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T12:49:43Z",
+            "last_commit": "2026-08-13T10:32:12Z",
             "owner": "anolilab",
             "repo": "unplugin-favicons",
             "stars": 10
@@ -3478,7 +3478,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:25:17Z",
+            "last_commit": "2026-08-13T12:50:10Z",
             "owner": "web-infra-dev",
             "repo": "modern.js",
             "stars": 5032
@@ -3492,7 +3492,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T06:02:22Z",
+            "last_commit": "2026-08-14T05:43:23Z",
             "owner": "web-infra-dev",
             "repo": "rstest",
             "stars": 480
@@ -3506,7 +3506,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T06:02:22Z",
+            "last_commit": "2026-08-14T05:43:23Z",
             "owner": "web-infra-dev",
             "repo": "rstest",
             "stars": 480
@@ -3520,7 +3520,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T06:02:22Z",
+            "last_commit": "2026-08-14T05:43:23Z",
             "owner": "web-infra-dev",
             "repo": "rstest",
             "stars": 480
@@ -3687,7 +3687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:06:24.160Z",
+    "last_updated": "2026-08-14T06:04:52.451Z",
     "original_repository": "rstackjs/awesome-rstack",
     "original_repository_sha": "87c70dfa72a2ea36186f7fffe89aaac72162927d",
     "enhanced_repository": "enhansome/enhansome-rstack",
