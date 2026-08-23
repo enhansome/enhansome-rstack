@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-22T02:21:05Z",
                 "owner": "meteor",
                 "repo": "meteor",
-                "stars": 44809
+                "stars": 44810
               }
             },
             {
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 306484159,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T21:13:38Z",
+                "last_commit": "2026-08-22T23:13:26Z",
                 "owner": "extension-js",
                 "repo": "extension.js",
-                "stars": 5067
+                "stars": 5066
               }
             },
             {
@@ -81,7 +81,7 @@
                 "archived": false,
                 "id": 340412012,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:09:31Z",
+                "last_commit": "2026-08-22T20:19:50Z",
                 "owner": "callstack",
                 "repo": "repack",
                 "stars": 1931
@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 985096937,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T20:33:21Z",
+                "last_commit": "2026-08-22T18:05:23Z",
                 "owner": "basementstudio",
                 "repo": "xmcp",
                 "stars": 1317
@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 85431399,
                 "language": "Ruby",
-                "last_commit": "2026-08-17T10:21:34Z",
+                "last_commit": "2026-08-23T03:56:17Z",
                 "owner": "shakacode",
                 "repo": "shakapacker",
                 "stars": 490
@@ -216,10 +216,10 @@
                 "archived": false,
                 "id": 1306403036,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:16:14Z",
+                "last_commit": "2026-08-22T18:48:53Z",
                 "owner": "rshono",
                 "repo": "rshono",
-                "stars": 65
+                "stars": 68
               }
             },
             {
@@ -319,10 +319,10 @@
                 "archived": false,
                 "id": 249342059,
                 "language": "Vue",
-                "last_commit": "2026-08-20T11:59:26Z",
+                "last_commit": "2026-08-23T00:30:35Z",
                 "owner": "zxwk1998",
                 "repo": "vue-admin-better",
-                "stars": 18900
+                "stars": 18901
               }
             },
             {
@@ -611,7 +611,7 @@
                 "archived": false,
                 "id": 957787168,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:51:00Z",
+                "last_commit": "2026-08-22T22:40:07Z",
                 "owner": "Trapar-waves",
                 "repo": "react-antd-pro",
                 "stars": 4
@@ -671,7 +671,7 @@
                 "archived": false,
                 "id": 958375025,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T14:36:38Z",
+                "last_commit": "2026-08-22T18:03:46Z",
                 "owner": "Trapar-waves",
                 "repo": "react-mantine-tailwind",
                 "stars": 2
@@ -783,7 +783,7 @@
                 "archived": false,
                 "id": 968415599,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T22:09:30Z",
+                "last_commit": "2026-08-22T22:29:12Z",
                 "owner": "Trapar-waves",
                 "repo": "llm-template",
                 "stars": 3
@@ -829,7 +829,7 @@
                 "last_commit": "2026-08-21T05:25:12Z",
                 "owner": "unocss",
                 "repo": "unocss",
-                "stars": 18931
+                "stars": 18932
               }
             },
             {
@@ -874,7 +874,7 @@
                 "last_commit": "2026-07-31T01:45:59Z",
                 "owner": "zh-lx",
                 "repo": "code-inspector",
-                "stars": 3009
+                "stars": 3010
               }
             },
             {
@@ -889,7 +889,7 @@
                 "last_commit": "2026-08-21T03:21:22Z",
                 "owner": "module-federation",
                 "repo": "core",
-                "stars": 2617
+                "stars": 2619
               }
             },
             {
@@ -1466,7 +1466,7 @@
                 "last_commit": "2026-08-14T19:43:34Z",
                 "owner": "tailwindlabs",
                 "repo": "tailwindcss",
-                "stars": 97292
+                "stars": 97288
               }
             },
             {
@@ -1511,7 +1511,7 @@
                 "last_commit": "2026-08-04T14:59:39Z",
                 "owner": "babel",
                 "repo": "babel-loader",
-                "stars": 4839
+                "stars": 4838
               }
             },
             {
@@ -1541,7 +1541,7 @@
                 "last_commit": "2026-08-20T23:26:35Z",
                 "owner": "webpack",
                 "repo": "sass-loader",
-                "stars": 3892
+                "stars": 3891
               }
             },
             {
@@ -1884,10 +1884,10 @@
                     "archived": false,
                     "id": 1123610216,
                     "language": "Rust",
-                    "last_commit": "2026-08-21T15:19:58Z",
+                    "last_commit": "2026-08-23T04:45:58Z",
                     "owner": "ubugeeei-prod",
                     "repo": "vize",
-                    "stars": 876
+                    "stars": 877
                   }
                 },
                 {
@@ -2096,7 +2096,7 @@
                     "last_commit": "2026-08-22T02:28:58Z",
                     "owner": "daangn",
                     "repo": "seed-design",
-                    "stars": 1058
+                    "stars": 1059
                   }
                 },
                 {
@@ -2126,7 +2126,7 @@
                     "last_commit": "2026-08-19T11:51:41Z",
                     "owner": "rstackjs",
                     "repo": "rsbuild-plugin-tailwindcss",
-                    "stars": 53
+                    "stars": 54
                   }
                 },
                 {
@@ -2603,7 +2603,7 @@
                     "archived": false,
                     "id": 824191309,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T02:51:10Z",
+                    "last_commit": "2026-08-22T14:50:54Z",
                     "owner": "rstackjs",
                     "repo": "rsbuild-plugin-eslint",
                     "stars": 4
@@ -2993,7 +2993,7 @@
                 "last_commit": "2026-07-13T01:33:41Z",
                 "owner": "TypeStrong",
                 "repo": "typedoc",
-                "stars": 8445
+                "stars": 8446
               }
             },
             {
@@ -3477,7 +3477,7 @@
                 "archived": false,
                 "id": 456739054,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T14:06:22Z",
+                "last_commit": "2026-08-23T01:44:47Z",
                 "owner": "vue-macros",
                 "repo": "vue-macros",
                 "stars": 1984
@@ -3683,10 +3683,10 @@
             "archived": false,
             "id": 382378702,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T09:35:02Z",
+            "last_commit": "2026-08-22T05:35:01Z",
             "owner": "web-infra-dev",
             "repo": "modern.js",
-            "stars": 5037
+            "stars": 5038
           }
         },
         {
@@ -3794,7 +3794,7 @@
             "archived": false,
             "id": 861620940,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T04:33:54Z",
+            "last_commit": "2026-08-22T05:54:57Z",
             "owner": "rstackjs",
             "repo": "rspack-dev-server",
             "stars": 41
@@ -3895,7 +3895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:04:46.696Z",
+    "last_updated": "2026-08-23T05:12:40.429Z",
     "original_repository": "rstackjs/awesome-rstack",
     "original_repository_id": 719008997,
     "original_repository_sha": "87c70dfa72a2ea36186f7fffe89aaac72162927d",
