@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 476642602,
                 "language": "Rust",
-                "last_commit": "2026-08-25T04:37:32Z",
+                "last_commit": "2026-08-25T06:20:11Z",
                 "owner": "web-infra-dev",
                 "repo": "rspack",
                 "stars": 12870
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 701750420,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:09:42Z",
+                "last_commit": "2026-08-25T06:16:59Z",
                 "owner": "web-infra-dev",
                 "repo": "rsbuild",
                 "stars": 3365
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 659104635,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T04:39:40Z",
+                "last_commit": "2026-08-25T06:17:08Z",
                 "owner": "web-infra-dev",
                 "repo": "rspress",
                 "stars": 2314
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 886562005,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:15:23Z",
+                "last_commit": "2026-08-25T06:12:41Z",
                 "owner": "web-infra-dev",
                 "repo": "rstest",
                 "stars": 481
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 1019382196,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:13:19Z",
+                "last_commit": "2026-08-25T06:15:53Z",
                 "owner": "web-infra-dev",
                 "repo": "rslint",
                 "stars": 446
@@ -938,7 +938,7 @@
                 "archived": false,
                 "id": 412152628,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T03:28:07Z",
+                "last_commit": "2026-08-25T06:20:58Z",
                 "owner": "unocss",
                 "repo": "unocss",
                 "stars": 18937
@@ -1578,7 +1578,7 @@
                 "last_commit": "2026-08-14T19:43:34Z",
                 "owner": "tailwindlabs",
                 "repo": "tailwindcss",
-                "stars": 97323
+                "stars": 97324
               }
             },
             {
@@ -1996,7 +1996,7 @@
                     "archived": false,
                     "id": 1123610216,
                     "language": "Rust",
-                    "last_commit": "2026-08-25T05:10:00Z",
+                    "last_commit": "2026-08-25T06:18:29Z",
                     "owner": "ubugeeei-prod",
                     "repo": "vize",
                     "stars": 878
@@ -2227,7 +2227,7 @@
                     "archived": false,
                     "id": 346700901,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T05:16:02Z",
+                    "last_commit": "2026-08-25T05:59:04Z",
                     "owner": "daangn",
                     "repo": "seed-design",
                     "stars": 1067
@@ -3832,7 +3832,7 @@
             "archived": false,
             "id": 886562005,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:15:23Z",
+            "last_commit": "2026-08-25T06:12:41Z",
             "owner": "web-infra-dev",
             "repo": "rstest",
             "stars": 481
@@ -3847,7 +3847,7 @@
             "archived": false,
             "id": 886562005,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:15:23Z",
+            "last_commit": "2026-08-25T06:12:41Z",
             "owner": "web-infra-dev",
             "repo": "rstest",
             "stars": 481
@@ -3862,7 +3862,7 @@
             "archived": false,
             "id": 886562005,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:15:23Z",
+            "last_commit": "2026-08-25T06:12:41Z",
             "owner": "web-infra-dev",
             "repo": "rstest",
             "stars": 481
@@ -4029,7 +4029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:17:24.347Z",
+    "last_updated": "2026-08-25T06:22:25.922Z",
     "original_repository": "rstackjs/awesome-rstack",
     "original_repository_id": 719008997,
     "original_repository_sha": "87c70dfa72a2ea36186f7fffe89aaac72162927d",

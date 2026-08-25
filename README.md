@@ -40,8 +40,8 @@ Rstack is a unified JavaScript toolchain built around Rspack, with high performa
 | [Rslib](https://github.com/web-infra-dev/rslib) ⭐ 1,002 \| 🐛 28 \| 🌐 TypeScript \| 📅 2026-08-25       | Library development tool | <a href="https://npmjs.com/package/@rslib/core"><img src="https://img.shields.io/npm/v/@rslib/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>       |
 | [Rspress](https://github.com/web-infra-dev/rspress) ⭐ 2,314 \| 🐛 57 \| 🌐 TypeScript \| 📅 2026-08-25   | Static site generator    | <a href="https://npmjs.com/package/@rspress/core"><img src="https://img.shields.io/npm/v/@rspress/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>   |
 | [Rsdoctor](https://github.com/web-infra-dev/rsdoctor) ⭐ 1,140 \| 🐛 30 \| 🌐 TypeScript \| 📅 2026-08-25 | Build analyzer           | <a href="https://npmjs.com/package/@rsdoctor/core"><img src="https://img.shields.io/npm/v/@rsdoctor/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a> |
-| [Rstest](https://github.com/web-infra-dev/rstest) ⭐ 481 \| 🐛 53 \| 🌐 TypeScript \| 📅 2026-08-25       | Testing framework        | <a href="https://npmjs.com/package/@rstest/core"><img src="https://img.shields.io/npm/v/@rstest/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>     |
-| [Rslint](https://github.com/web-infra-dev/rslint) ⭐ 446 \| 🐛 77 \| 🌐 Go \| 📅 2026-08-25               | Linter                   | <a href="https://npmjs.com/package/@rslint/core"><img src="https://img.shields.io/npm/v/@rslint/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>     |
+| [Rstest](https://github.com/web-infra-dev/rstest) ⭐ 481 \| 🐛 52 \| 🌐 TypeScript \| 📅 2026-08-25       | Testing framework        | <a href="https://npmjs.com/package/@rstest/core"><img src="https://img.shields.io/npm/v/@rstest/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>     |
+| [Rslint](https://github.com/web-infra-dev/rslint) ⭐ 446 \| 🐛 73 \| 🌐 Go \| 📅 2026-08-25               | Linter                   | <a href="https://npmjs.com/package/@rslint/core"><img src="https://img.shields.io/npm/v/@rslint/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>     |
 
 ### Official Resources
 
@@ -185,7 +185,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 
 Rspack and Rsbuild support most of the webpack loaders, such as:
 
-* [@tailwindcss/webpack](https://github.com/tailwindlabs/tailwindcss/tree/main/packages/%40tailwindcss-webpack) ⭐ 97,323 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-14: A webpack loader for Tailwind CSS v4.
+* [@tailwindcss/webpack](https://github.com/tailwindlabs/tailwindcss/tree/main/packages/%40tailwindcss-webpack) ⭐ 97,324 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-14: A webpack loader for Tailwind CSS v4.
 * [@mdx-js/loader](https://github.com/mdx-js/mdx/tree/main/packages/loader) ⭐ 19,748 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-21: Loader for MDX.
 * [@svgr/webpack](https://github.com/gregberge/svgr/tree/main/packages/webpack) ⭐ 11,054 | 🐛 148 | 🌐 TypeScript | 📅 2026-03-01: Loader for SVGR.
 * [babel-loader](https://github.com/babel/babel-loader) ⭐ 4,837 | 🐛 65 | 🌐 JavaScript | 📅 2026-08-04: Transpiling JavaScript files using Babel.
@@ -226,7 +226,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 #### For Vue
 
 * [@vue-vine/rsbuild-plugin](https://github.com/vue-vine/vue-vine) ⭐ 1,444 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-21: Rsbuild plugin for Vue Vine.
-* [@vizejs/rspack-plugin](https://github.com/ubugeeei/vize) ⭐ 878 | 🐛 33 | 🌐 Rust | 📅 2026-08-25: High-Performance Vue.js Toolchain in Rust.
+* [@vizejs/rspack-plugin](https://github.com/ubugeeei/vize) ⭐ 878 | 🐛 32 | 🌐 Rust | 📅 2026-08-25: High-Performance Vue.js Toolchain in Rust.
 * [@rsbuild/plugin-vue-jsx](https://github.com/rstackjs/rsbuild-plugin-vue-jsx) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-15: Provides support for Vue 3 JSX / TSX syntax.
 * [@vue-devtools-rstack/rsbuild](https://github.com/OskarLebuda/vue-devtools-rstack/tree/main/packages/rsbuild) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-23: Integrates Vue DevTools with Rsbuild, with feature parity with `vite-plugin-vue-devtools`.
 * [rsbuild-plugin-vue-inspector](https://github.com/hunghg255/rsbuild-plugin-vue-inspector) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2024-05-31: Allows automatic jumping to the local IDE when clicking on a browser element.
@@ -259,7 +259,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 
 #### Common
 
-* [@seed-design/rsbuild-plugin](https://github.com/daangn/seed-design) ⭐ 1,067 | 🐛 76 | 🌐 TypeScript | 📅 2026-08-25: An Rsbuild plugin for the Seed design system.
+* [@seed-design/rsbuild-plugin](https://github.com/daangn/seed-design) ⭐ 1,067 | 🐛 75 | 🌐 TypeScript | 📅 2026-08-25: An Rsbuild plugin for the Seed design system.
 * [rsbuild-plugin-dts](https://github.com/web-infra-dev/rslib/tree/main/packages/plugin-dts) ⭐ 1,002 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-25: Generate TypeScript declaration files.
 * [rsbuild-plugin-tailwindcss](https://github.com/rstackjs/rsbuild-plugin-tailwindcss) ⭐ 54 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-19: An Rsbuild plugin to integrate with Tailwind CSS.
 * [@webx-kit/rsbuild-plugin](https://github.com/tmkx/webx-kit) ⭐ 35 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-28: Rsbuild plugin for Web eXtension development.
@@ -399,9 +399,9 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 ## Rstest Adapters
 
 * [@modern-js/adapter-rstest](https://github.com/web-infra-dev/modern.js/tree/main/packages/cli/adapter-rstest) ⭐ 5,038 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-25: Rstest adapter for Modern.js configuration.
-* [@rstest/adapter-rspack](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rspack) ⭐ 481 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-25: Rstest adapter for Rspack configuration.
-* [@rstest/adapter-rsbuild](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rsbuild) ⭐ 481 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-25: Rstest adapter for Rsbuild configuration.
-* [@rstest/adapter-rslib](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rslib) ⭐ 481 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-25: Rstest adapter for Rslib configuration.
+* [@rstest/adapter-rspack](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rspack) ⭐ 481 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-25: Rstest adapter for Rspack configuration.
+* [@rstest/adapter-rsbuild](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rsbuild) ⭐ 481 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-25: Rstest adapter for Rsbuild configuration.
+* [@rstest/adapter-rslib](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rslib) ⭐ 481 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-25: Rstest adapter for Rslib configuration.
 
 ## Deployment
 
