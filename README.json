@@ -17,11 +17,11 @@
                 "id": 476642602,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-05T08:23:00Z",
-                "open_issues": 226,
+                "last_commit": "2026-09-06T04:38:25Z",
+                "open_issues": 231,
                 "owner": "web-infra-dev",
                 "repo": "rspack",
-                "stars": 12887,
+                "stars": 12888,
                 "topics": [
                   "build-tool",
                   "bundler",
@@ -54,11 +54,11 @@
                 "id": 701750420,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T08:19:16Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-06T01:58:20Z",
+                "open_issues": 27,
                 "owner": "web-infra-dev",
                 "repo": "rsbuild",
-                "stars": 3374,
+                "stars": 3375,
                 "topics": [
                   "build-tool",
                   "bundler",
@@ -89,7 +89,7 @@
                 "open_issues": 30,
                 "owner": "web-infra-dev",
                 "repo": "rslib",
-                "stars": 1007,
+                "stars": 1010,
                 "topics": [
                   "build-tool",
                   "bundler",
@@ -118,11 +118,11 @@
                 "id": 659104635,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T16:15:16Z",
+                "last_commit": "2026-09-05T14:01:48Z",
                 "open_issues": 63,
                 "owner": "web-infra-dev",
                 "repo": "rspress",
-                "stars": 2319,
+                "stars": 2320,
                 "topics": [
                   "docs-generator",
                   "markdown",
@@ -176,11 +176,11 @@
                 "id": 886562005,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T08:21:22Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-05T12:57:31Z",
+                "open_issues": 53,
                 "owner": "web-infra-dev",
                 "repo": "rstest",
-                "stars": 493,
+                "stars": 496,
                 "topics": [
                   "rsbuild",
                   "rspack",
@@ -205,7 +205,7 @@
                 "id": 1019382196,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T07:44:16Z",
+                "last_commit": "2026-09-06T08:37:04Z",
                 "open_issues": 45,
                 "owner": "web-infra-dev",
                 "repo": "rslint",
@@ -221,6 +221,37 @@
                 ]
               },
               "first_seen": "2026-08-28T16:55:56.707Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Rstack CLI",
+              "description": "Unified CLI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Unified toolchain for shipping JavaScript faster. Powered by the Rspack ecosystem.",
+                "homepage": "https://rstack.rs",
+                "id": 1138027854,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-05T09:08:28Z",
+                "open_issues": 6,
+                "owner": "rstackjs",
+                "repo": "rstack-cli",
+                "stars": 28,
+                "topics": [
+                  "javascript",
+                  "rsbuild",
+                  "rslib",
+                  "rslint",
+                  "rspack",
+                  "rspress",
+                  "rstack",
+                  "rstest",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-09-06T08:56:40.152Z"
             }
           ],
           "description": "Rstack is a unified JavaScript toolchain built around Rspack, with high performance and consistent architecture.",
@@ -257,6 +288,30 @@
             },
             {
               "node_type": "item",
+              "title": "rspack-binding-template",
+              "description": "A template for creating custom Rspack bindings with plugins and loaders written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Allows you to extend Rspack directly with native Rust code",
+                "homepage": "https://rstackjs.github.io/rspack-rust-book/",
+                "id": 1011722445,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-09-02T23:36:12Z",
+                "open_issues": 3,
+                "owner": "rstackjs",
+                "repo": "rspack-binding-template",
+                "stars": 19,
+                "topics": [
+                  "rspack",
+                  "rust"
+                ]
+              },
+              "first_seen": "2026-09-06T08:56:40.152Z"
+            },
+            {
+              "node_type": "item",
               "title": "rstack-design-resources",
               "description": "Design resources for Rstack.",
               "children": [],
@@ -280,6 +335,53 @@
                 ]
               },
               "first_seen": "2026-08-28T16:55:56.707Z"
+            },
+            {
+              "node_type": "item",
+              "title": "rsdoctor-action",
+              "description": "A GitHub Action for bundle size comparisons and pull request reports powered by Rsdoctor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A GitHub Action for comprehensive bundle size analysis and reporting using Rsdoctor",
+                "homepage": null,
+                "id": 1080957395,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2026-09-04T12:46:48Z",
+                "open_issues": 2,
+                "owner": "web-infra-dev",
+                "repo": "rsdoctor-action",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-09-06T08:56:40.152Z"
+            },
+            {
+              "node_type": "item",
+              "title": "rstack-editor",
+              "description": "Unified VS Code extension for Rstack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Editor integrations for Rstack.",
+                "homepage": null,
+                "id": 1316963958,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-04T13:53:34Z",
+                "open_issues": 4,
+                "owner": "rstackjs",
+                "repo": "rstack-editor",
+                "stars": 10,
+                "topics": [
+                  "rslint",
+                  "rstack",
+                  "rstest",
+                  "vscode-extension"
+                ]
+              },
+              "first_seen": "2026-09-06T08:56:40.152Z"
             }
           ],
           "description": null,
@@ -301,10 +403,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T14:48:28Z",
-                "open_issues": 336,
+                "open_issues": 337,
                 "owner": "meteor",
                 "repo": "meteor",
-                "stars": 44810,
+                "stars": 44811,
                 "topics": [
                   "build-system",
                   "framework",
@@ -335,11 +437,11 @@
                 "id": 306484159,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T21:16:49Z",
+                "last_commit": "2026-09-06T02:24:17Z",
                 "open_issues": 6,
                 "owner": "extension-js",
                 "repo": "extension.js",
-                "stars": 5139,
+                "stars": 5143,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -378,7 +480,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-31T21:06:10Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "callstack",
                 "repo": "repack",
                 "stars": 1932,
@@ -476,7 +578,7 @@
                 "open_issues": 4,
                 "owner": "sailscastshq",
                 "repo": "boring-stack",
-                "stars": 501,
+                "stars": 502,
                 "topics": [
                   "fullstack-javascript",
                   "javascript",
@@ -602,6 +704,33 @@
             },
             {
               "node_type": "item",
+              "title": "Symfony Reprise",
+              "description": "Integrates Rsbuild with Symfony.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Integrate Vite and Rsbuild with Symfony, a reprise of Webpack Encore Bundle.",
+                "homepage": "https://symfony.com/reprise",
+                "id": 1295692522,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-09-04T05:11:58Z",
+                "open_issues": 6,
+                "owner": "symfony",
+                "repo": "reprise",
+                "stars": 82,
+                "topics": [
+                  "assets",
+                  "encore",
+                  "rsbuild",
+                  "symfony",
+                  "vite"
+                ]
+              },
+              "first_seen": "2026-09-06T08:56:40.152Z"
+            },
+            {
+              "node_type": "item",
               "title": "Rshono",
               "description": "Minimalist web framework based on Hono, Rspack and React Server Components.",
               "children": [],
@@ -616,7 +745,7 @@
                 "open_issues": 0,
                 "owner": "rshono",
                 "repo": "rshono",
-                "stars": 76,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:56.707Z"
@@ -806,11 +935,11 @@
                 "id": 249342059,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-05T01:35:11Z",
+                "last_commit": "2026-09-06T01:29:25Z",
                 "open_issues": 18,
                 "owner": "zxwk1998",
                 "repo": "vue-admin-better",
-                "stars": 18922,
+                "stars": 18924,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -1273,8 +1402,8 @@
                 "id": 957787168,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T18:55:50Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-05T10:35:30Z",
+                "open_issues": 11,
                 "owner": "Trapar-waves",
                 "repo": "react-antd-pro",
                 "stars": 4,
@@ -1294,8 +1423,8 @@
                 "id": 958428458,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T16:16:45Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-05T21:36:48Z",
+                "open_issues": 11,
                 "owner": "Trapar-waves",
                 "repo": "react-tanstack",
                 "stars": 4,
@@ -1336,8 +1465,8 @@
                 "id": 980554257,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-04T15:44:33Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-05T18:31:41Z",
+                "open_issues": 8,
                 "owner": "Trapar-waves",
                 "repo": "vue-tailwind",
                 "stars": 3,
@@ -1448,8 +1577,8 @@
                 "id": 958380470,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T16:07:29Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-05T21:25:10Z",
+                "open_issues": 11,
                 "owner": "Trapar-waves",
                 "repo": "react-tailwind",
                 "stars": 0,
@@ -1518,8 +1647,8 @@
                 "id": 968415599,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T22:12:19Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-06T01:36:38Z",
+                "open_issues": 11,
                 "owner": "Trapar-waves",
                 "repo": "llm-template",
                 "stars": 3,
@@ -1578,11 +1707,11 @@
                 "id": 412152628,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T05:57:50Z",
-                "open_issues": 132,
+                "last_commit": "2026-09-06T06:40:35Z",
+                "open_issues": 138,
                 "owner": "unocss",
                 "repo": "unocss",
-                "stars": 18947,
+                "stars": 18946,
                 "topics": [
                   "atomic-css",
                   "engine",
@@ -1660,7 +1789,7 @@
                 "open_issues": 5,
                 "owner": "zh-lx",
                 "repo": "code-inspector",
-                "stars": 3016,
+                "stars": 3017,
                 "topics": [
                   "code",
                   "devtools",
@@ -1687,7 +1816,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-05T00:16:48Z",
-                "open_issues": 75,
+                "open_issues": 77,
                 "owner": "module-federation",
                 "repo": "core",
                 "stars": 2627,
@@ -2028,8 +2157,8 @@
                 "id": 257533548,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T06:26:33Z",
-                "open_issues": 30,
+                "last_commit": "2026-09-05T20:14:07Z",
+                "open_issues": 33,
                 "owner": "DataDog",
                 "repo": "build-plugins",
                 "stars": 110,
@@ -2172,31 +2301,6 @@
             },
             {
               "node_type": "item",
-              "title": "html-rspack-plugin",
-              "description": "Simplifies creation of HTML files to serve your bundles.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An Rspack plugin for generating HTML files. It is forked from `html-webpack-plugin` and provides better performance.",
-                "homepage": null,
-                "id": 825318563,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-09-04T13:47:28Z",
-                "open_issues": 5,
-                "owner": "rstackjs",
-                "repo": "html-rspack-plugin",
-                "stars": 19,
-                "topics": [
-                  "rsbuild",
-                  "rspack",
-                  "rspack-plugin"
-                ]
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
               "title": "rspack-manifest-plugin",
               "description": "An Rspack plugin for generating an asset manifest.",
               "children": [],
@@ -2208,7 +2312,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-04T13:50:44Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "rstackjs",
                 "repo": "rspack-manifest-plugin",
                 "stars": 18,
@@ -2336,7 +2440,7 @@
                 "id": 839273423,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T12:33:24Z",
+                "last_commit": "2026-09-05T13:45:50Z",
                 "open_issues": 3,
                 "owner": "rstackjs",
                 "repo": "rspack-plugin-preact-refresh",
@@ -2410,7 +2514,7 @@
                 "id": 927022135,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T22:40:56Z",
+                "last_commit": "2026-09-06T01:16:28Z",
                 "open_issues": 3,
                 "owner": "colinaaa",
                 "repo": "typia-rspack-plugin",
@@ -2679,10 +2783,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-02T10:29:13Z",
-                "open_issues": 62,
+                "open_issues": 61,
                 "owner": "tailwindlabs",
                 "repo": "tailwindcss",
-                "stars": 97443,
+                "stars": 97454,
                 "topics": [
                   "css",
                   "css-framework",
@@ -2711,7 +2815,7 @@
                 "open_issues": 20,
                 "owner": "mdx-js",
                 "repo": "mdx",
-                "stars": 19767,
+                "stars": 19770,
                 "topics": [
                   "jsx",
                   "markdown",
@@ -2740,7 +2844,7 @@
                 "open_issues": 149,
                 "owner": "gregberge",
                 "repo": "svgr",
-                "stars": 11060,
+                "stars": 11059,
                 "topics": [
                   "inline-svg",
                   "loader",
@@ -3076,7 +3180,7 @@
                 "id": 801386025,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T01:45:46Z",
+                "last_commit": "2026-09-05T12:15:40Z",
                 "open_issues": 0,
                 "owner": "SukkaW",
                 "repo": "react-compiler-webpack",
@@ -3369,8 +3473,8 @@
                     "id": 1123610216,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-05T08:34:48Z",
-                    "open_issues": 40,
+                    "last_commit": "2026-09-06T08:48:36Z",
+                    "open_issues": 38,
                     "owner": "ubugeeei-prod",
                     "repo": "vize",
                     "stars": 890,
@@ -3621,6 +3725,27 @@
                     ]
                   },
                   "first_seen": "2026-08-28T16:55:56.707Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "rsbuild-plugin-vue-mcp",
+                  "description": "Integrates Vue DevTools with MCP to expose Vue component trees, component state, and Pinia stores to AI tools.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Rsbuild/Rspack MCP plugin based on Vue DevTools",
+                    "homepage": null,
+                    "id": 1343597988,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-08-25T14:49:31Z",
+                    "open_issues": 0,
+                    "owner": "BrightX",
+                    "repo": "rsbuild-plugin-vue-mcp",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-06T08:56:40.152Z"
                 }
               ],
               "description": null,
@@ -3744,7 +3869,7 @@
                     "id": 346700901,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-04T21:38:00Z",
+                    "last_commit": "2026-09-06T05:54:59Z",
                     "open_issues": 68,
                     "owner": "daangn",
                     "repo": "seed-design",
@@ -3771,7 +3896,7 @@
                     "open_issues": 30,
                     "owner": "web-infra-dev",
                     "repo": "rslib",
-                    "stars": 1007,
+                    "stars": 1010,
                     "topics": [
                       "build-tool",
                       "bundler",
@@ -3790,6 +3915,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "rsbuild-auto-i18n-plugin",
+                  "description": "An Rsbuild plugin for automatic translation with support for multiple translation services and custom translators.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "前端自动翻译。支持有道/谷歌/百度/自定义翻译器。兼容 webpack/vite/rollup/rsbuild，适配所有编译成JS的框架，支持插值，命名空间等，帮助你一键翻译项目。",
+                    "homepage": null,
+                    "id": 686837372,
+                    "language": "Vue",
+                    "license": "MIT",
+                    "last_commit": "2026-02-01T12:06:26Z",
+                    "open_issues": 6,
+                    "owner": "auto-i18n",
+                    "repo": "auto-i18n-translation-plugins",
+                    "stars": 609,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-06T08:56:40.152Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "rsbuild-plugin-tailwindcss",
                   "description": "An Rsbuild plugin to integrate with Tailwind CSS.",
                   "children": [],
@@ -3800,8 +3946,8 @@
                     "id": 885128921,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-05T01:52:35Z",
-                    "open_issues": 23,
+                    "last_commit": "2026-09-05T17:42:16Z",
+                    "open_issues": 22,
                     "owner": "rstackjs",
                     "repo": "rsbuild-plugin-tailwindcss",
                     "stars": 54,
@@ -3994,7 +4140,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-02T12:34:27Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "rstackjs",
                     "repo": "rsbuild-plugin-source-build",
                     "stars": 18,
@@ -4622,7 +4768,7 @@
                     "id": 824191309,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T02:06:49Z",
+                    "last_commit": "2026-09-05T16:49:30Z",
                     "open_issues": 3,
                     "owner": "rstackjs",
                     "repo": "rsbuild-plugin-eslint",
@@ -4836,8 +4982,8 @@
                     "id": 1073428986,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T01:25:16Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-09-06T00:58:05Z",
+                    "open_issues": 8,
                     "owner": "colinaaa",
                     "repo": "rsbuild-plugin-mcp",
                     "stars": 3,
@@ -5672,6 +5818,34 @@
             },
             {
               "node_type": "item",
+              "title": "@seshuk/rspress-plugin-scalar",
+              "description": "Renders interactive Scalar API reference pages from OpenAPI specifications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Rspress plugin to render Scalar API Reference from an OpenAPI spec",
+                "homepage": "https://www.npmjs.com/package/@seshuk/rspress-plugin-scalar",
+                "id": 1238078479,
+                "language": "CSS",
+                "license": "MIT",
+                "last_commit": "2026-05-19T12:11:25Z",
+                "open_issues": 0,
+                "owner": "maximseshuk",
+                "repo": "rspress-plugin-scalar",
+                "stars": 4,
+                "topics": [
+                  "api-reference",
+                  "openapi",
+                  "rspress",
+                  "rspress-plugin",
+                  "scalar",
+                  "swagger"
+                ]
+              },
+              "first_seen": "2026-09-06T08:56:40.152Z"
+            },
+            {
+              "node_type": "item",
               "title": "rspress-plugin-viz",
               "description": "Add Graphviz support for Rspress using .",
               "children": [],
@@ -5711,6 +5885,34 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:56.707Z"
+            },
+            {
+              "node_type": "item",
+              "title": "rspress-plugin-typesense",
+              "description": "Integrates Typesense for typo-tolerant search.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A plugin that brings lightning-fast, typo-tolerant search powered by Typesense to your Rspress site.",
+                "homepage": null,
+                "id": 1191855384,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-20T15:19:53Z",
+                "open_issues": 0,
+                "owner": "typesense",
+                "repo": "rspress-plugin-typesense",
+                "stars": 2,
+                "topics": [
+                  "documentation-search",
+                  "plugin",
+                  "rspress",
+                  "rspress-plugin",
+                  "search",
+                  "typesense"
+                ]
+              },
+              "first_seen": "2026-09-06T08:56:40.152Z"
             },
             {
               "node_type": "item",
@@ -5857,11 +6059,11 @@
                 "id": 324073430,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T23:57:07Z",
+                "last_commit": "2026-09-05T14:11:11Z",
                 "open_issues": 89,
                 "owner": "unplugin",
                 "repo": "unplugin-icons",
-                "stars": 4934,
+                "stars": 4932,
                 "topics": [
                   "iconify",
                   "icons",
@@ -5892,7 +6094,7 @@
                 "open_issues": 152,
                 "owner": "unplugin",
                 "repo": "unplugin-vue-components",
-                "stars": 4292,
+                "stars": 4293,
                 "topics": [
                   "auto-import",
                   "components",
@@ -5921,7 +6123,7 @@
                 "open_issues": 78,
                 "owner": "unplugin",
                 "repo": "unplugin-auto-import",
-                "stars": 3793,
+                "stars": 3794,
                 "topics": [
                   "rollup-plugin",
                   "unplugin",
@@ -6020,7 +6222,7 @@
                 "open_issues": 0,
                 "owner": "gajus",
                 "repo": "zod-compiler",
-                "stars": 800,
+                "stars": 802,
                 "topics": [
                   "zod"
                 ]
@@ -6115,8 +6317,8 @@
                 "id": 402409065,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T22:45:12Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-05T21:24:26Z",
+                "open_issues": 9,
                 "owner": "element-plus",
                 "repo": "unplugin-element-plus",
                 "stars": 252,
@@ -6187,6 +6389,48 @@
                 ]
               },
               "first_seen": "2026-08-28T16:55:56.707Z"
+            },
+            {
+              "node_type": "item",
+              "title": "unplugin-oxc",
+              "description": "Transform and minify JavaScript and TypeScript with Oxc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Oxc integration for unplugin.",
+                "homepage": null,
+                "id": 930095453,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-03T23:08:52Z",
+                "open_issues": 2,
+                "owner": "unplugin",
+                "repo": "unplugin-oxc",
+                "stars": 57,
+                "topics": []
+              },
+              "first_seen": "2026-09-06T08:56:40.152Z"
+            },
+            {
+              "node_type": "item",
+              "title": "@iconify/unplugin",
+              "description": "Generate icon components on demand from Iconify.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Icon components on demand for almost 300k icons, rendered as SVG + CSS",
+                "homepage": null,
+                "id": 1094097295,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-05-29T19:04:30Z",
+                "open_issues": 0,
+                "owner": "iconify",
+                "repo": "iconify-unplugin",
+                "stars": 42,
+                "topics": []
+              },
+              "first_seen": "2026-09-06T08:56:40.152Z"
             },
             {
               "node_type": "item",
@@ -6327,8 +6571,8 @@
             "id": 382378702,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T02:40:24Z",
-            "open_issues": 54,
+            "last_commit": "2026-09-06T05:27:51Z",
+            "open_issues": 59,
             "owner": "web-infra-dev",
             "repo": "modern.js",
             "stars": 5039,
@@ -6358,11 +6602,11 @@
             "id": 886562005,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T08:21:22Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-05T12:57:31Z",
+            "open_issues": 53,
             "owner": "web-infra-dev",
             "repo": "rstest",
-            "stars": 493,
+            "stars": 496,
             "topics": [
               "rsbuild",
               "rspack",
@@ -6387,11 +6631,11 @@
             "id": 886562005,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T08:21:22Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-05T12:57:31Z",
+            "open_issues": 53,
             "owner": "web-infra-dev",
             "repo": "rstest",
-            "stars": 493,
+            "stars": 496,
             "topics": [
               "rsbuild",
               "rspack",
@@ -6416,11 +6660,11 @@
             "id": 886562005,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T08:21:22Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-05T12:57:31Z",
+            "open_issues": 53,
             "owner": "web-infra-dev",
             "repo": "rstest",
-            "stars": 493,
+            "stars": 496,
             "topics": [
               "rsbuild",
               "rspack",
@@ -6435,6 +6679,104 @@
         }
       ],
       "title": "Rstest Adapters"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "path-serializer",
+          "description": "A snapshot serializer that normalizes system-specific paths for stable snapshots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Rstest/Vitest/Jest✅ snapshot path-serializer, e.g: `/usr/packages` -> `<ROOT>/packages`",
+            "homepage": null,
+            "id": 838894029,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-04T03:23:03Z",
+            "open_issues": 2,
+            "owner": "rstackjs",
+            "repo": "path-serializer",
+            "stars": 8,
+            "topics": [
+              "jest",
+              "jest-serializer",
+              "pnpm",
+              "rstest",
+              "serializer",
+              "test",
+              "vitest"
+            ]
+          },
+          "first_seen": "2026-09-06T08:56:40.152Z"
+        },
+        {
+          "node_type": "item",
+          "title": "rstest-fetch-mock",
+          "description": "Mock the global fetch API in Rstest tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mock the global fetch in your tests",
+            "homepage": null,
+            "id": 1290633051,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-04T06:34:26Z",
+            "open_issues": 0,
+            "owner": "rstackjs",
+            "repo": "rstest-fetch-mock",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-09-06T08:56:40.152Z"
+        },
+        {
+          "node_type": "item",
+          "title": "rstest-canvas-mock",
+          "description": "Mock the Canvas API in Rstest tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mock canvas in Rstest",
+            "homepage": null,
+            "id": 1017883466,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-04T06:31:06Z",
+            "open_issues": 0,
+            "owner": "rstackjs",
+            "repo": "rstest-canvas-mock",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-09-06T08:56:40.152Z"
+        },
+        {
+          "node_type": "item",
+          "title": "rstest-sonar-reporter",
+          "description": "A Rstest reporter that outputs test results in SonarQube's Generic Test Execution XML format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Reporter to output SonarQube's generic test report format from Rstest",
+            "homepage": null,
+            "id": 1197636538,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-09-05T05:53:08Z",
+            "open_issues": 1,
+            "owner": "onigoetz",
+            "repo": "rstest-sonar-reporter",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-06T08:56:40.152Z"
+        }
+      ],
+      "title": "Rstest Utilities"
     },
     {
       "description": null,
@@ -6552,7 +6894,7 @@
             "id": 811283076,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T02:34:44Z",
+            "last_commit": "2026-09-06T03:07:09Z",
             "open_issues": 2,
             "owner": "rstackjs",
             "repo": "rspack-chain",
@@ -6680,7 +7022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:36:34.052Z",
+    "last_updated": "2026-09-06T08:56:40.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Rstack.",
@@ -6688,7 +7030,7 @@
       "id": 719008997,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-03T07:41:23Z",
+      "last_commit": "2026-09-05T12:51:13Z",
       "open_issues": 1,
       "owner": "rstackjs",
       "repo": "awesome-rstack",
@@ -6707,7 +7049,7 @@
         "rstest"
       ]
     },
-    "original_repository_sha": "3225b9ef32ddb204aed8c124685cd7c24c904fe7",
+    "original_repository_sha": "8bdc7ad806faf2f7151c06e5686f38223d09845a",
     "enhanced_repository": "enhansome/enhansome-rstack",
     "enhanced_repository_description": null,
     "title": "Awesome rstack with stars"
