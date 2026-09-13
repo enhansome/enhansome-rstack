@@ -36,13 +36,13 @@ Rstack is a unified JavaScript toolchain built around Rspack, with high performa
 
 | Name                                                                                                     | Description              | Version                                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Rspack](https://github.com/web-infra-dev/rspack) ⭐ 12,898 \| 🐛 221 \| 🌐 Rust \| 📅 2026-09-12         | Bundler                  | <a href="https://npmjs.com/package/@rspack/core"><img src="https://img.shields.io/npm/v/@rspack/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>     |
-| [Rsbuild](https://github.com/web-infra-dev/rsbuild) ⭐ 3,377 \| 🐛 23 \| 🌐 TypeScript \| 📅 2026-09-11   | Build tool               | <a href="https://npmjs.com/package/@rsbuild/core"><img src="https://img.shields.io/npm/v/@rsbuild/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>   |
+| [Rspack](https://github.com/web-infra-dev/rspack) ⭐ 12,898 \| 🐛 220 \| 🌐 Rust \| 📅 2026-09-13         | Bundler                  | <a href="https://npmjs.com/package/@rspack/core"><img src="https://img.shields.io/npm/v/@rspack/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>     |
+| [Rsbuild](https://github.com/web-infra-dev/rsbuild) ⭐ 3,377 \| 🐛 21 \| 🌐 TypeScript \| 📅 2026-09-13   | Build tool               | <a href="https://npmjs.com/package/@rsbuild/core"><img src="https://img.shields.io/npm/v/@rsbuild/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>   |
 | [Rslib](https://github.com/web-infra-dev/rslib) ⭐ 1,030 \| 🐛 34 \| 🌐 TypeScript \| 📅 2026-09-12       | Library development tool | <a href="https://npmjs.com/package/@rslib/core"><img src="https://img.shields.io/npm/v/@rslib/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>       |
-| [Rspress](https://github.com/web-infra-dev/rspress) ⭐ 2,324 \| 🐛 62 \| 🌐 TypeScript \| 📅 2026-09-12   | Static site generator    | <a href="https://npmjs.com/package/@rspress/core"><img src="https://img.shields.io/npm/v/@rspress/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>   |
+| [Rspress](https://github.com/web-infra-dev/rspress) ⭐ 2,325 \| 🐛 63 \| 🌐 TypeScript \| 📅 2026-09-12   | Static site generator    | <a href="https://npmjs.com/package/@rspress/core"><img src="https://img.shields.io/npm/v/@rspress/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>   |
 | [Rsdoctor](https://github.com/web-infra-dev/rsdoctor) ⭐ 1,139 \| 🐛 26 \| 🌐 TypeScript \| 📅 2026-09-12 | Build analyzer           | <a href="https://npmjs.com/package/@rsdoctor/core"><img src="https://img.shields.io/npm/v/@rsdoctor/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a> |
-| [Rstest](https://github.com/web-infra-dev/rstest) ⭐ 497 \| 🐛 52 \| 🌐 TypeScript \| 📅 2026-09-12       | Testing framework        | <a href="https://npmjs.com/package/@rstest/core"><img src="https://img.shields.io/npm/v/@rstest/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>     |
-| [Rslint](https://github.com/web-infra-dev/rslint) ⭐ 455 \| 🐛 50 \| 🌐 Go \| 📅 2026-09-12               | Linter                   | <a href="https://npmjs.com/package/@rslint/core"><img src="https://img.shields.io/npm/v/@rslint/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>     |
+| [Rstest](https://github.com/web-infra-dev/rstest) ⭐ 497 \| 🐛 51 \| 🌐 TypeScript \| 📅 2026-09-13       | Testing framework        | <a href="https://npmjs.com/package/@rstest/core"><img src="https://img.shields.io/npm/v/@rstest/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>     |
+| [Rslint](https://github.com/web-infra-dev/rslint) ⭐ 456 \| 🐛 48 \| 🌐 Go \| 📅 2026-09-13               | Linter                   | <a href="https://npmjs.com/package/@rslint/core"><img src="https://img.shields.io/npm/v/@rslint/core?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>     |
 | [Rstack CLI](https://github.com/rstackjs/rstack-cli) ⭐ 28 \| 🐛 7 \| 🌐 TypeScript \| 📅 2026-09-12      | Unified CLI              | <a href="https://npmjs.com/package/rstack"><img src="https://img.shields.io/npm/v/rstack?style=flat-square&colorA=564341&colorB=EDED91" alt="npm version" /></a>                 |
 
 ### Official Resources
@@ -51,20 +51,20 @@ Rstack is a unified JavaScript toolchain built around Rspack, with high performa
 * [rspack-binding-template](https://github.com/rstackjs/rspack-binding-template) ⭐ 19 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-11: A template for creating custom Rspack bindings with plugins and loaders written in Rust.
 * [rstack-design-resources](https://github.com/rstackjs/rstack-design-resources) ⭐ 17 | 🐛 2 | 📅 2026-09-08: Design resources for Rstack.
 * [rsdoctor-action](https://github.com/web-infra-dev/rsdoctor-action) ⭐ 12 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-08: A GitHub Action for bundle size comparisons and pull request reports powered by Rsdoctor.
-* [rstack-editor](https://github.com/rstackjs/rstack-editor) ⭐ 10 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-08: Unified VS Code extension for Rstack.
+* [rstack-editor](https://github.com/rstackjs/rstack-editor) ⭐ 10 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-13: Unified VS Code extension for Rstack.
 
 ### Ecosystem
 
 Upper-level frameworks or libraries that are powered by Rspack or connected to Rspack:
 
-* [Meteor](https://github.com/meteor/meteor) ⭐ 44,803 | 🐛 324 | 🌐 JavaScript | 📅 2026-09-12: An ultra-simple environment for building modern web applications with Rspack.
-* [Extension.js](https://github.com/extension-js/extension.js) ⭐ 5,154 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-12: Create, develop, build, and preview browser extensions for Chrome, Firefox, and Edge with Rspack.
-* [Re.Pack](https://github.com/callstack/repack) ⭐ 1,932 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-12: A toolkit to build your React Native application with Rspack.
-* [xmcp](https://github.com/basementstudio/xmcp) ⭐ 1,327 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-11: A framework for building and shipping MCP servers with TypeScript and Rspack.
+* [Meteor](https://github.com/meteor/meteor) ⭐ 44,803 | 🐛 332 | 🌐 JavaScript | 📅 2026-09-12: An ultra-simple environment for building modern web applications with Rspack.
+* [Extension.js](https://github.com/extension-js/extension.js) ⭐ 5,157 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-12: Create, develop, build, and preview browser extensions for Chrome, Firefox, and Edge with Rspack.
+* [Re.Pack](https://github.com/callstack/repack) ⭐ 1,931 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-12: A toolkit to build your React Native application with Rspack.
+* [xmcp](https://github.com/basementstudio/xmcp) ⭐ 1,328 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-13: A framework for building and shipping MCP servers with TypeScript and Rspack.
 * [Esmx](https://github.com/esmnext/esmx) ⭐ 678 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13: Esmx is a next-generation micro-frontend framework based on native ESM, with no sandbox or runtime overhead, supporting multi-framework hybrid development and providing high-performance server-side rendering capabilities.
 * [The Boring JavaScript Stack](https://github.com/sailscastshq/boring-stack) ⭐ 503 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-10: An opinionated full-stack JavaScript starter built with Sails.js, Inertia.js, and Rsbuild-powered frontend assets.
 * [Shakapacker](https://github.com/shakacode/shakapacker) ⭐ 489 | 🐛 14 | 🌐 Ruby | 📅 2026-09-09: Make it easy to use the JavaScript pre-processor and Rspack to manage frontend JavaScript in Rails.
-* [storybook-rsbuild](https://github.com/rstackjs/storybook-rsbuild) ⭐ 156 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-11: Storybook builder powered by Rsbuild.
+* [storybook-rsbuild](https://github.com/rstackjs/storybook-rsbuild) ⭐ 156 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-12: Storybook builder powered by Rsbuild.
 * [Addfox](https://github.com/addfox/addfox) ⭐ 120 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-02: A browser extension framework built on Rsbuild.
 * [Kmi](https://github.com/kmijs/kmi) ⭐ 110 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-15: Based on Umi to provide Rspack support and other best practices.
 * [Symfony Reprise](https://github.com/symfony/reprise) ⭐ 82 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-11: Integrates Rsbuild with Symfony.
@@ -72,7 +72,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 * [pareto](https://github.com/childrentime/pareto) ⭐ 71 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-06: A lightweight SSR framework centered on stream rendering.
 * [electron-rsbuild](https://github.com/electron-rsbuild/electron-rsbuild) ⭐ 38 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-27: The Rsbuild-based electron build tool.
 * [PrevelteKit](https://github.com/tbocek/preveltekit) ⭐ 38 | 🐛 1 | 🌐 Go | 📅 2026-04-16: A lightweight, high-performance web application framework built on Svelte 5, featuring Server-Side Pre Rendering (SSPR) using Rsbuild as the build tool.
-* [effective-rsc](https://github.com/nikhilsnayak/effective-rsc) ⭐ 27 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-11: An Effect-native React Server Components framework for Bun, built on Rspack's native RSC support.
+* [effective-rsc](https://github.com/nikhilsnayak/effective-rsc) ⭐ 29 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-13: An Effect-native React Server Components framework for Bun, built on Rspack's native RSC support.
 * [serverless-rspack](https://github.com/kitchenshelf/serverless-rspack) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-20: A Serverless framework plugin for zero-config JavaScript and TypeScript code bundling using the high performance Rust-based JavaScript bundler rspack.
 * [AUmi](https://github.com/atom-yang/aumi) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-29: Use Rsbuild as Umi's bundler instead of Webpack, get high performance of Rsbuild and all Umi ecosystem.
 * [Rselectron](https://github.com/guangzan/rselectron) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-12: An Rsbuild-first Electron development and build tool.
@@ -96,7 +96,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 
 ### Rspack Starter
 
-* [vue-admin-better](https://github.com/zxwk1998/vue-admin-better) ⭐ 18,927 | 🐛 18 | 🌐 Vue | 📅 2026-09-11: A Vue 3 admin based on Rspack.
+* [vue-admin-better](https://github.com/zxwk1998/vue-admin-better) ⭐ 18,928 | 🐛 18 | 🌐 Vue | 📅 2026-09-13: A Vue 3 admin based on Rspack.
 * [ng-rspack](https://github.com/edbzn/ng-rspack) ⭐ 37 | 🐛 0 | 🌐 JavaScript | 📅 2024-07-10: Angular + Rspack + Nx + Module Federation 2.0.
 * [electron-react-rspack](https://github.com/RyanProMax/electron-react-rspack) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-31: An Electron boilerplate including TypeScript, React, Rspack and ESLint.
 * [nuxt-rspack-starter](https://github.com/danielroe/nuxt-rspack-starter) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-22: Nuxt starter with Rspack.
@@ -118,22 +118,22 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 * [rsbuild\_vue3\_h5\_template](https://github.com/DMaiGit/rsbuild_vue3_h5_template) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2024-03-08: A project template for Vue 3. It includes popular libraries such as Axios, Pinia, Vant, and Vue Router.
 * [rsbuild-turborepo-react-module-federation](https://github.com/nguyenbatranvan/rspack-turbo-module-federation) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-19: Rsbuild + Turborepo + Biome + Zustand + React for module federation.
 * [template-rsbuild-react-ts-tailwind](https://github.com/RoyRao2333/template-rsbuild-react-ts-tailwind) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-02-21: Rsbuild starter template with React + Typescript + TailwindCSS + Biome.
-* [@trapar-waves/react-antd-pro](https://github.com/Trapar-waves/react-antd-pro) ⭐ 4 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-11: A React-based project leveraging Ant Design Pro, TanStack tools, and Rsbuild.
-* [@trapar-waves/react-tanstack](https://github.com/Trapar-waves/react-tanstack) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-11: A React template leveraging TanStack tools, with TypeScript, Tailwind CSS, and Rsbuild integration.
+* [@trapar-waves/react-antd-pro](https://github.com/Trapar-waves/react-antd-pro) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-12: A React-based project leveraging Ant Design Pro, TanStack tools, and Rsbuild.
+* [@trapar-waves/react-tanstack](https://github.com/Trapar-waves/react-tanstack) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-12: A React template leveraging TanStack tools, with TypeScript, Tailwind CSS, and Rsbuild integration.
 * [umi-rsbuild](https://github.com/atom-yang/aumi-example) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-13: `Umi` + `Rsbuild`, A `Umi` project integrated with `Rsbuild`, you can use `Umi` and its plugins with the same experiences as `Umi` + `Webpack` are.
-* [@trapar-waves/vue-tailwind](https://github.com/Trapar-waves/vue-tailwind) ⭐ 3 | 🐛 1 | 🌐 Vue | 📅 2026-09-11: A Vue 3 project with Tailwind CSS, Rsbuild and modern development tools.
-* [@trapar-waves/react-mantine-tailwind](https://github.com/Trapar-waves/react-mantine-tailwind) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-11: A React template integrating Mantine UI and Tailwind CSS for modern web development.
+* [@trapar-waves/vue-tailwind](https://github.com/Trapar-waves/vue-tailwind) ⭐ 3 | 🐛 2 | 🌐 Vue | 📅 2026-09-13: A Vue 3 project with Tailwind CSS, Rsbuild and modern development tools.
+* [@trapar-waves/react-mantine-tailwind](https://github.com/Trapar-waves/react-mantine-tailwind) ⭐ 2 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-12: A React template integrating Mantine UI and Tailwind CSS for modern web development.
 * [vue-nestjs-ssr-starter](https://github.com/pikadun/vue-nestjs-ssr-starter) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-12: A lightweight full-stack SSR starter with Vue 3, NestJS, Fastify, PrimeVue, and Rsbuild.
 * [react-nestjs-ssr-starter](https://github.com/pikadun/react-nestjs-ssr-starter) ⭐ 2 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-06: A lightweight full-stack starter for server-side rendering with NestJS and React.
 * [rsbuild-vue-starter](https://github.com/logue/rsbuild-vue-starter) ⭐ 1 | 🐛 0 | 🌐 Vue | 📅 2026-09-11: A simple starter template using the Vue + Vue-router + Pinia stack. Includes built-in formatting with rslint and testing with rstest.
-* [@trapar-waves/react-tailwind](https://github.com/Trapar-waves/react-tailwind) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-11: A modern UI development template integrating React and Tailwind CSS, with Rsbuild, TypeScript, ESLint.
+* [@trapar-waves/react-tailwind](https://github.com/Trapar-waves/react-tailwind) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-13: A modern UI development template integrating React and Tailwind CSS, with Rsbuild, TypeScript, ESLint.
 * [rsbuild-react-chakra-starter](https://github.com/sozonome/rsbuild-react-chakra-starter): initialize react app with rsbuild, Chakra UI and TypeScript setup. Configured with awesome toolings: Biome, Husky + Lint-Staged, Commitlint, and Turbo.
 
 ### Rslib Starter
 
 * [ts-lib-starter](https://github.com/ulivz/ts-lib-starter) ⭐ 11 | 🐛 2 | 🌐 TypeScript | 📅 2025-08-07: A hassle-free TS library template, powered by Rslib.
 * [rslib-npm-template](https://github.com/LLmoskk/rslib-npm-template) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-07: A starter template for developing React components with Rslib, featuring automated versioning and publishing using semantic-release.
-* [@trapar-waves/llm-template](https://github.com/Trapar-waves/llm-template) ⭐ 3 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-12: A template for LLM development integrating AI tools, TypeScript, Zod, and Rslib.
+* [@trapar-waves/llm-template](https://github.com/Trapar-waves/llm-template) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-13: A template for LLM development integrating AI tools, TypeScript, Zod, and Rslib.
 * [rstack-library-starter](https://github.com/logue/rstack-library-starter) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-11: Production-ready starter for Rsbuild/Rslib library development. Built on Rstack (Rspack, Rslib, Rstest, Rslint), with structured documentation patterns (AGENTS.md, PLAN.md), comprehensive testing, and a minimal Pico.css demo site. Validated across multiple libraries.
 * [web-component-starter](https://github.com/holyfata/web-component-starter): A starter for developing Web components with Rslib, featuring using stencil and useful both in React and Vue.
 
@@ -141,12 +141,12 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 
 ### Rspack Plugins
 
-* [@unocss/webpack](https://github.com/unocss/unocss/tree/main/packages-integrations/webpack) ⭐ 18,954 | 🐛 144 | 🌐 TypeScript | 📅 2026-09-12: Plugin for UnoCSS.
-* [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) ⭐ 12,657 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-10: Visualize size of webpack output files with an interactive zoomable treemap.
-* [@vanilla-extract/webpack-plugin](https://github.com/vanilla-extract-css/vanilla-extract) ⭐ 10,424 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-27: Integrating vanilla-extract with webpack / Rspack.
-* [code-inspector-plugin](https://github.com/zh-lx/code-inspector) ⭐ 3,024 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-12: Click an element on the page, it can automatically open the editor and position the cursor to the source code of the element.
-* [@module-federation/enhanced](https://github.com/module-federation/core/tree/main/packages/enhanced) ⭐ 2,639 | 🐛 98 | 🌐 JavaScript | 📅 2026-09-11: Provides enhanced features for Module Federation.
-* [webpackbar](https://github.com/unjs/webpackbar) ⭐ 2,090 | 🐛 29 | 🌐 TypeScript | 📅 2026-09-10: Elegant ProgressBar and Profiler for Rspack.
+* [@unocss/webpack](https://github.com/unocss/unocss/tree/main/packages-integrations/webpack) ⭐ 18,957 | 🐛 144 | 🌐 TypeScript | 📅 2026-09-12: Plugin for UnoCSS.
+* [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) ⭐ 12,656 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-10: Visualize size of webpack output files with an interactive zoomable treemap.
+* [@vanilla-extract/webpack-plugin](https://github.com/vanilla-extract-css/vanilla-extract) ⭐ 10,423 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-27: Integrating vanilla-extract with webpack / Rspack.
+* [code-inspector-plugin](https://github.com/zh-lx/code-inspector) ⭐ 3,025 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-12: Click an element on the page, it can automatically open the editor and position the cursor to the source code of the element.
+* [@module-federation/enhanced](https://github.com/module-federation/core/tree/main/packages/enhanced) ⭐ 2,639 | 🐛 99 | 🌐 JavaScript | 📅 2026-09-13: Provides enhanced features for Module Federation.
+* [webpackbar](https://github.com/unjs/webpackbar) ⭐ 2,090 | 🐛 29 | 🌐 TypeScript | 📅 2026-09-12: Elegant ProgressBar and Profiler for Rspack.
 * [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin) ⚠️ Archived: Remove your build folder before building.
 * [@serwist/webpack-plugin](https://github.com/serwist/serwist) ⭐ 1,478 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-22: generate a manifest of local files for progressive web apps.
 * [compression-webpack-plugin](https://github.com/webpack-contrib/compression-webpack-plugin) ⭐ 1,425 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-30: Prepare compressed versions of assets to serve them with Content-Encoding.
@@ -168,10 +168,10 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 * [rspack-plugin-retry-chunk-load](https://github.com/khodorammar/rspack-plugin-retry-chunk-load) ⭐ 11 | 🐛 2 | 🌐 TypeScript | 📅 2025-09-14 Retry loading of chunks that failed to load.
 * [rspack-deno-plugin](https://github.com/LonelySnowman/rspack-deno-plugin) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-18: Make Rspack run correctly in the deno environment.
 * [@vue-devtools-rstack/rspack](https://github.com/OskarLebuda/vue-devtools-rstack/tree/main/packages/rspack) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-23: Integrates Vue DevTools with raw Rspack setups, with feature parity with `vite-plugin-vue-devtools`.
-* [@rspack/plugin-preact-refresh](https://github.com/rstackjs/rspack-plugin-preact-refresh) ⭐ 9 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-10: Support Preact Refresh.
+* [@rspack/plugin-preact-refresh](https://github.com/rstackjs/rspack-plugin-preact-refresh) ⭐ 9 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-12: Support Preact Refresh.
 * [eslint-rspack-plugin](https://github.com/rstackjs/eslint-rspack-plugin) ⭐ 9 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-09: Rspack plugin to run ESLint checks during the compilation.
 * [react-cosmos-plugin-rspack](https://github.com/birchill/react-cosmos-plugin-rspack/) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10: Allows building / running React Cosmos using Rspack.
-* [typia-rspack-plugin](https://github.com/colinaaa/typia-rspack-plugin) ⭐ 7 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-10: A Rspack plugin for `typia` - TypeScript transformer for runtime type checking and validation.
+* [typia-rspack-plugin](https://github.com/colinaaa/typia-rspack-plugin) ⭐ 7 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-13: A Rspack plugin for `typia` - TypeScript transformer for runtime type checking and validation.
 * [inject-manifest-plugin](https://github.com/tobua/inject-manifest-plugin) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2024-06-18: Injects a Workbox PWA manifest into a Service Worker.
 * [rspack-plugin-cli-copy](https://github.com/rstackjs/rspack-plugin-cli-copy) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-20: Start the project and automatically copy the network URL of the terminal.
 * [rspack-circular-dependency-plugin](https://github.com/Sunny-117/rspack-circular-dependency-plugin) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-19: Detect circular dependencies in modules compiled with Rspack.
@@ -191,8 +191,8 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 
 Rspack and Rsbuild support most of the webpack loaders, such as:
 
-* [@tailwindcss/webpack](https://github.com/tailwindlabs/tailwindcss/tree/main/packages/%40tailwindcss-webpack) ⭐ 97,514 | 🐛 69 | 🌐 TypeScript | 📅 2026-09-08: A webpack loader for Tailwind CSS v4.
-* [@mdx-js/loader](https://github.com/mdx-js/mdx/tree/main/packages/loader) ⭐ 19,787 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-11: Loader for MDX.
+* [@tailwindcss/webpack](https://github.com/tailwindlabs/tailwindcss/tree/main/packages/%40tailwindcss-webpack) ⭐ 97,532 | 🐛 70 | 🌐 TypeScript | 📅 2026-09-08: A webpack loader for Tailwind CSS v4.
+* [@mdx-js/loader](https://github.com/mdx-js/mdx/tree/main/packages/loader) ⭐ 19,788 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-11: Loader for MDX.
 * [@svgr/webpack](https://github.com/gregberge/svgr/tree/main/packages/webpack) ⭐ 11,057 | 🐛 150 | 🌐 TypeScript | 📅 2026-03-01: Loader for SVGR.
 * [babel-loader](https://github.com/babel/babel-loader) ⭐ 4,835 | 🐛 66 | 🌐 JavaScript | 📅 2026-09-03: Transpiling JavaScript files using Babel.
 * [css-loader](https://github.com/webpack-contrib/css-loader) ⚠️ Archived: Interprets @import and url() in CSS files and resolve them.
@@ -200,7 +200,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 * [postcss-loader](https://github.com/webpack-contrib/postcss-loader) ⭐ 2,842 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-03: Loader to process CSS with PostCSS.
 * [style-loader](https://github.com/webpack-contrib/style-loader) ⚠️ Archived: Inject CSS into the DOM.
 * [@vue-vine/rspack-loader](https://github.com/vue-vine/vue-vine) ⭐ 1,444 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-04: Rspack loader for Vue Vine.
-* [less-loader](https://github.com/webpack-contrib/less-loader) ⭐ 960 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-10: Compiles Less to CSS.
+* [less-loader](https://github.com/webpack-contrib/less-loader) ⭐ 960 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-13: Compiles Less to CSS.
 * [svelte-loader](https://github.com/sveltejs/svelte-loader) ⭐ 604 | 🐛 23 | 🌐 JavaScript | 📅 2026-04-02: Loader for svelte components.
 * [svg-react-loader](https://github.com/jhamlet/svg-react-loader) ⚠️ Archived: Turn SVGs into React Components.
 * [stylus-loader](https://github.com/webpack-contrib/stylus-loader) ⭐ 493 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-03: Compiles Stylus to CSS.
@@ -232,7 +232,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 #### For Vue
 
 * [@vue-vine/rsbuild-plugin](https://github.com/vue-vine/vue-vine) ⭐ 1,444 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-04: Rsbuild plugin for Vue Vine.
-* [@vizejs/rspack-plugin](https://github.com/ubugeeei/vize) ⭐ 895 | 🐛 32 | 🌐 Rust | 📅 2026-09-12: High-Performance Vue.js Toolchain in Rust.
+* [@vizejs/rspack-plugin](https://github.com/ubugeeei/vize) ⭐ 895 | 🐛 32 | 🌐 Rust | 📅 2026-09-13: High-Performance Vue.js Toolchain in Rust.
 * [@rsbuild/plugin-vue-jsx](https://github.com/rstackjs/rsbuild-plugin-vue-jsx) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-08: Provides support for Vue 3 JSX / TSX syntax.
 * [@vue-devtools-rstack/rsbuild](https://github.com/OskarLebuda/vue-devtools-rstack/tree/main/packages/rsbuild) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-23: Integrates Vue DevTools with Rsbuild, with feature parity with `vite-plugin-vue-devtools`.
 * [rsbuild-plugin-vue-inspector](https://github.com/hunghg255/rsbuild-plugin-vue-inspector) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2024-05-31: Allows automatic jumping to the local IDE when clicking on a browser element.
@@ -266,7 +266,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 
 #### Common
 
-* [@seed-design/rsbuild-plugin](https://github.com/daangn/seed-design) ⭐ 1,119 | 🐛 71 | 🌐 TypeScript | 📅 2026-09-11: An Rsbuild plugin for the Seed design system.
+* [@seed-design/rsbuild-plugin](https://github.com/daangn/seed-design) ⭐ 1,119 | 🐛 71 | 🌐 TypeScript | 📅 2026-09-13: An Rsbuild plugin for the Seed design system.
 * [rsbuild-plugin-dts](https://github.com/web-infra-dev/rslib/tree/main/packages/plugin-dts) ⭐ 1,030 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-12: Generate TypeScript declaration files.
 * [rsbuild-auto-i18n-plugin](https://github.com/auto-i18n/auto-i18n-translation-plugins) ⭐ 611 | 🐛 6 | 🌐 Vue | 📅 2026-02-01: An Rsbuild plugin for automatic translation with support for multiple translation services and custom translators.
 * [rsbuild-plugin-tailwindcss](https://github.com/rstackjs/rsbuild-plugin-tailwindcss) ⭐ 54 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-11: An Rsbuild plugin to integrate with Tailwind CSS.
@@ -341,7 +341,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 ### Rspress Plugins
 
 * [@rspress/plugin-typedoc](https://rspress.rs/plugin/official-plugins/typedoc): Integrate [TypeDoc](https://github.com/TypeStrong/typedoc) ⭐ 8,453 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-13, used to generate API documentation of TS module automatically.
-* [@rspress/plugin-rss](https://rspress.rs/plugin/official-plugins/rss): Generates RSS files for specific document pages with [feed](https://github.com/jpmonette/feed) ⭐ 1,411 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-10.
+* [@rspress/plugin-rss](https://rspress.rs/plugin/official-plugins/rss): Generates RSS files for specific document pages with [feed](https://github.com/jpmonette/feed) ⭐ 1,411 | 🐛 29 | 🌐 TypeScript | 📅 2026-09-12.
 * [rspress-plugin-align-image](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-align-image) ⭐ 13 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-07: Rspress plugin to align images in markdown.
 * [rspress-plugin-directives](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-directives) ⭐ 13 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-07: Rspress plugin for custom directives support.
 * [rspress-plugin-file-tree](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-file-tree) ⭐ 13 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-07: Rspress plugin that add tree view for file structure display.
@@ -361,16 +361,16 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 * [rspress-plugin-changelog](https://github.com/baranwang/rspress-plugin-changelog) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-26: Generates changelog pages, fetching release information from GitHub and GitLab repositories.
 * [rspress-plugin-translate](https://github.com/byteHulk/rspress-plugin-translate) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-03: Automatically translate your content behind the scenes using GPT's.
 * [rspress-plugin-sitemap](https://github.com/jl917/rspress-plugin-sitemap) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-28: Automatically generate SEO-related sitemaps.
-* [rspress-language-tabs](https://github.com/maccuaa/rspress-language-tabs) ⭐ 5 | 🐛 1 | 🌐 MDX | 📅 2026-09-11: An Rspress component for creating tabbed code examples with programming language icons.
+* [rspress-language-tabs](https://github.com/maccuaa/rspress-language-tabs) ⭐ 5 | 🐛 1 | 🌐 MDX | 📅 2026-09-13: An Rspress component for creating tabbed code examples with programming language icons.
 * [@seshuk/rspress-plugin-scalar](https://github.com/maximseshuk/rspress-plugin-scalar) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2026-05-19: Renders interactive Scalar API reference pages from OpenAPI specifications.
 * [rspress-plugin-viz](https://github.com/elecmonkey/rspress-plugin-viz) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-19: Add Graphviz support for Rspress using `@viz-js/viz`.
-* [rspress-plugin-font-figtree](https://github.com/maccuaa/rspress-plugin-font-figtree) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-11: Use Figtree as the default font in your Rspress website.
+* [rspress-plugin-font-figtree](https://github.com/maccuaa/rspress-plugin-font-figtree) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-13: Use Figtree as the default font in your Rspress website.
 * [rspress-plugin-typesense](https://github.com/typesense/rspress-plugin-typesense) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09: Integrates Typesense for typo-tolerant search.
 * [rspress-plugin-pdf-generator](https://github.com/MaxtuneLee/rspress-plugin-pdf-generator) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-16: Generates multi-language single-page or multi-page PDF documents from Rspress site during build process.
 * [rspress-plugin-clarity](https://github.com/jl917/rspress-plugin-clarity) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2024-05-18: Rspress plugin for [Clarity](https://clarity.microsoft.com/) integration.
 * [rspress-plugin-annotation-words](https://github.com/2heal1/rspress-plugin-annotation-words) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-04: An Rspress plugin to support annotation words.
 * [rspress-plugin-auto-sidebar](https://github.com/buyfakett/rspress-plugin-auto-sidebar) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-24: Automatically generate the sidebar from the navbar configuration.
-* [rspress-plugin-giscus](https://github.com/buyfakett/rspress-plugin-giscus) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-12: Integrate [giscus](https://github.com/giscus/giscus) ⭐ 12,096 | 🐛 127 | 🌐 TypeScript | 📅 2026-05-26 into Rspress, a comment system powered by GitHub Discussions.
+* [rspress-plugin-giscus](https://github.com/buyfakett/rspress-plugin-giscus) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-12: Integrate [giscus](https://github.com/giscus/giscus) ⭐ 12,099 | 🐛 127 | 🌐 TypeScript | 📅 2026-05-26 into Rspress, a comment system powered by GitHub Discussions.
 * [rspress-plugin-blog-list](https://github.com/buyfakett/rspress-plugin-blog-list) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-24: Integrate blog list into Rspress.
 * [@rspress/plugin-llms](https://rspress.rs/plugin/official-plugins/llms): Generates `llms.txt` and `llms-full.txt` files for your docs site.
 * [@rspress/plugin-sitemap](https://rspress.rs/plugin/official-plugins/sitemap): Generates `sitemap.xml` for your website.
@@ -386,11 +386,11 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 
 Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), such as:
 
-* [unplugin-icons](https://github.com/unplugin/unplugin-icons) ⭐ 4,935 | 🐛 84 | 🌐 TypeScript | 📅 2026-09-11: Access thousands of icons as components on-demand universally.
+* [unplugin-icons](https://github.com/unplugin/unplugin-icons) ⭐ 4,934 | 🐛 84 | 🌐 TypeScript | 📅 2026-09-11: Access thousands of icons as components on-demand universally.
 * [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) ⭐ 4,293 | 🐛 151 | 🌐 TypeScript | 📅 2026-05-20: On-demand components auto importing for Vue.
 * [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) ⭐ 3,794 | 🐛 78 | 🌐 TypeScript | 📅 2026-08-03: Auto import APIs on-demand.
 * [unplugin-vue-macros](https://github.com/vue-macros/vue-macros) ⭐ 1,984 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-10: Explore more macros and syntax sugar to Vue.
-* [unplugin-dts](https://github.com/qmhc/unplugin-dts) ⭐ 1,527 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-08: An unplugin that generates declaration files (\*.d.ts).
+* [unplugin-dts](https://github.com/qmhc/unplugin-dts) ⭐ 1,526 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-08: An unplugin that generates declaration files (\*.d.ts).
 * [zod-compiler](https://github.com/gajus/zod-compiler) ⭐ 803 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09: Compile Zod schemas into zero-overhead validation functions at build time.
 * [unplugin-turbo-console](https://github.com/unplugin/unplugin-turbo-console) ⭐ 709 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-09: Improve the Developer Experience of console.
 * [unplugin-macros](https://github.com/unplugin/unplugin-macros) ⭐ 281 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-07: Macros plugin for bundlers.
@@ -401,8 +401,9 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 * [unplugin-oxc](https://github.com/unplugin/unplugin-oxc) ⭐ 57 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-11: Transform and minify JavaScript and TypeScript with Oxc.
 * [@iconify/unplugin](https://github.com/iconify/iconify-unplugin) ⭐ 42 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-29: Generate icon components on demand from Iconify.
 * [unplugin-inject-preload](https://github.com/Applelo/unplugin-inject-preload) ⭐ 39 | 🐛 2 | 🌐 TypeScript | 📅 2024-12-15: Inject `<link rel="preload">` to your index.html based on your build assets. Need to be used with HTMLWebpackPlugin or HTMLRspackPlugin.
-* [unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ⭐ 10 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-12: Generate favicons for your project with caching for blazing fast rebuilds.
+* [unplugin-favicons](https://github.com/anolilab/unplugin-favicons) ⭐ 10 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-12: Generate favicons for your project with caching for blazing fast rebuilds.
 * [unplugin-build-info](https://github.com/renzp94/unplugin-build-info) ⭐ 8 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-05: Print the build information on the console.
+* [unplugin-ata](https://github.com/ata-core/unplugin-ata) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-12: Compile JSON Schema files into standalone ata-validator modules with TypeScript declarations at build time.
 * [unplugin-build-meta](https://github.com/luxass/unplugin-build-meta) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14: Import build metadata into your JavaScript/TypeScript projects.
 * [unplugin-vue](https://www.npmjs.com/package/unplugin-vue): Transform Vue 3 SFC to JavaScript.
 * [@stylexjs/unplugin](https://www.npmjs.com/package/@stylexjs/unplugin): Universal bundler plugin for StyleX.
@@ -413,9 +414,9 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 ## Rstest Adapters
 
 * [@modern-js/adapter-rstest](https://github.com/web-infra-dev/modern.js/tree/main/packages/cli/adapter-rstest) ⭐ 5,040 | 🐛 63 | 🌐 TypeScript | 📅 2026-09-11: Rstest adapter for Modern.js configuration.
-* [@rstest/adapter-rspack](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rspack) ⭐ 497 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-12: Rstest adapter for Rspack configuration.
-* [@rstest/adapter-rsbuild](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rsbuild) ⭐ 497 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-12: Rstest adapter for Rsbuild configuration.
-* [@rstest/adapter-rslib](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rslib) ⭐ 497 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-12: Rstest adapter for Rslib configuration.
+* [@rstest/adapter-rspack](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rspack) ⭐ 497 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-13: Rstest adapter for Rspack configuration.
+* [@rstest/adapter-rsbuild](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rsbuild) ⭐ 497 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-13: Rstest adapter for Rsbuild configuration.
+* [@rstest/adapter-rslib](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rslib) ⭐ 497 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-13: Rstest adapter for Rslib configuration.
 
 ## Rstest Utilities
 
@@ -423,7 +424,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 * [rstest-fetch-mock](https://github.com/rstackjs/rstest-fetch-mock) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-04: Mock the global fetch API in Rstest tests.
 * [effect-rstest](https://github.com/Nsttt/effect-rstest) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-08: Effect test helpers for Rstest, with shared layers, test services, and property testing.
 * [rstest-canvas-mock](https://github.com/rstackjs/rstest-canvas-mock) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-08: Mock the Canvas API in Rstest tests.
-* [rstest-sonar-reporter](https://github.com/onigoetz/rstest-sonar-reporter) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-12: A Rstest reporter that outputs test results in SonarQube's Generic Test Execution XML format.
+* [rstest-sonar-reporter](https://github.com/onigoetz/rstest-sonar-reporter) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-13: A Rstest reporter that outputs test results in SonarQube's Generic Test Execution XML format.
 
 ## Deployment
 
@@ -535,4 +536,4 @@ To the extent possible under law, [Web Infra](https://github.com/web-infra-dev) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
