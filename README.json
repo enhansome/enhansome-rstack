@@ -17,11 +17,11 @@
                 "id": 476642602,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-27T10:02:40Z",
-                "open_issues": 247,
+                "last_commit": "2026-10-28T10:32:44Z",
+                "open_issues": 239,
                 "owner": "web-infra-dev",
                 "repo": "rspack",
-                "stars": 12957,
+                "stars": 12960,
                 "topics": [
                   "build-tool",
                   "bundler",
@@ -54,11 +54,11 @@
                 "id": 701750420,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T08:57:10Z",
+                "last_commit": "2026-10-28T07:58:35Z",
                 "open_issues": 24,
                 "owner": "web-infra-dev",
                 "repo": "rsbuild",
-                "stars": 3409,
+                "stars": 3410,
                 "topics": [
                   "build-tool",
                   "bundler",
@@ -85,11 +85,11 @@
                 "id": 766839449,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T09:32:21Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-28T10:41:08Z",
+                "open_issues": 32,
                 "owner": "web-infra-dev",
                 "repo": "rslib",
-                "stars": 1042,
+                "stars": 1043,
                 "topics": [
                   "build-tool",
                   "bundler",
@@ -118,8 +118,8 @@
                 "id": 659104635,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T09:43:54Z",
-                "open_issues": 65,
+                "last_commit": "2026-10-28T09:45:33Z",
+                "open_issues": 64,
                 "owner": "web-infra-dev",
                 "repo": "rspress",
                 "stars": 2350,
@@ -148,7 +148,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T23:15:55Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "web-infra-dev",
                 "repo": "rsdoctor",
                 "stars": 1151,
@@ -176,8 +176,8 @@
                 "id": 886562005,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T09:59:01Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-28T10:44:18Z",
+                "open_issues": 33,
                 "owner": "web-infra-dev",
                 "repo": "rstest",
                 "stars": 512,
@@ -205,7 +205,7 @@
                 "id": 1019382196,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-27T09:39:14Z",
+                "last_commit": "2026-10-28T09:58:28Z",
                 "open_issues": 46,
                 "owner": "web-infra-dev",
                 "repo": "rslint",
@@ -234,7 +234,7 @@
                 "id": 1138027854,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T04:04:34Z",
+                "last_commit": "2026-10-27T11:00:08Z",
                 "open_issues": 3,
                 "owner": "rstackjs",
                 "repo": "rstack-cli",
@@ -349,7 +349,7 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2026-10-21T06:57:10Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "web-infra-dev",
                 "repo": "rsdoctor-action",
                 "stars": 12,
@@ -369,7 +369,7 @@
                 "id": 1316963958,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T06:35:49Z",
+                "last_commit": "2026-10-28T01:44:22Z",
                 "open_issues": 8,
                 "owner": "rstackjs",
                 "repo": "rstack-editor",
@@ -402,8 +402,8 @@
                 "id": 3214406,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T09:28:56Z",
-                "open_issues": 354,
+                "last_commit": "2026-10-28T01:01:37Z",
+                "open_issues": 355,
                 "owner": "meteor",
                 "repo": "meteor",
                 "stars": 44795,
@@ -437,11 +437,11 @@
                 "id": 306484159,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T12:20:39Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-28T10:17:24Z",
+                "open_issues": 9,
                 "owner": "extension-js",
                 "repo": "extension.js",
-                "stars": 5200,
+                "stars": 5202,
                 "topics": [
                   "browser-extension",
                   "build-tool",
@@ -479,7 +479,7 @@
                 "id": 340412012,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T17:23:34Z",
+                "last_commit": "2026-10-27T15:15:38Z",
                 "open_issues": 25,
                 "owner": "callstack",
                 "repo": "repack",
@@ -509,11 +509,11 @@
                 "id": 985096937,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T19:22:05Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-27T15:29:31Z",
+                "open_issues": 19,
                 "owner": "basementstudio",
                 "repo": "xmcp",
-                "stars": 1344,
+                "stars": 1345,
                 "topics": [
                   "framework",
                   "mcp",
@@ -628,7 +628,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T11:33:57Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "rstackjs",
                 "repo": "storybook-rsbuild",
                 "stars": 157,
@@ -688,8 +688,8 @@
                 "id": 1306403036,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T16:18:40Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-27T13:04:17Z",
+                "open_issues": 2,
                 "owner": "rshono",
                 "repo": "rshono",
                 "stars": 124,
@@ -802,7 +802,7 @@
                 "id": 194503778,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T08:50:28Z",
+                "last_commit": "2026-10-28T08:37:36Z",
                 "open_issues": 6,
                 "owner": "mantou132",
                 "repo": "gem",
@@ -1460,8 +1460,8 @@
                 "id": 957787168,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T23:31:14Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-28T01:55:46Z",
+                "open_issues": 8,
                 "owner": "Trapar-waves",
                 "repo": "react-antd-pro",
                 "stars": 4,
@@ -1481,8 +1481,8 @@
                 "id": 958428458,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T23:58:15Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-28T02:00:42Z",
+                "open_issues": 5,
                 "owner": "Trapar-waves",
                 "repo": "react-tanstack",
                 "stars": 4,
@@ -1502,8 +1502,8 @@
                 "id": 980554257,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-26T09:44:59Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-28T01:25:26Z",
+                "open_issues": 3,
                 "owner": "Trapar-waves",
                 "repo": "vue-tailwind",
                 "stars": 3,
@@ -1544,8 +1544,8 @@
                 "id": 958375025,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T22:53:10Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-28T02:28:29Z",
+                "open_issues": 6,
                 "owner": "Trapar-waves",
                 "repo": "react-mantine-tailwind",
                 "stars": 2,
@@ -1635,8 +1635,8 @@
                 "id": 958380470,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T19:04:39Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-28T01:13:01Z",
+                "open_issues": 4,
                 "owner": "Trapar-waves",
                 "repo": "react-tailwind",
                 "stars": 0,
@@ -1705,8 +1705,8 @@
                 "id": 968415599,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T22:16:40Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-28T03:38:08Z",
+                "open_issues": 5,
                 "owner": "Trapar-waves",
                 "repo": "llm-template",
                 "stars": 3,
@@ -1770,7 +1770,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-26T12:39:02Z",
-                "open_issues": 113,
+                "open_issues": 116,
                 "owner": "unocss",
                 "repo": "unocss",
                 "stars": 18988,
@@ -1800,7 +1800,7 @@
                 "open_issues": 22,
                 "owner": "webpack",
                 "repo": "webpack-bundle-analyzer",
-                "stars": 12657,
+                "stars": 12655,
                 "topics": [
                   "analyze",
                   "bundle",
@@ -1848,7 +1848,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-13T08:10:41Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "zh-lx",
                 "repo": "code-inspector",
                 "stars": 3049,
@@ -1877,11 +1877,11 @@
                 "id": 306976345,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T09:46:12Z",
-                "open_issues": 125,
+                "last_commit": "2026-10-28T09:33:57Z",
+                "open_issues": 121,
                 "owner": "module-federation",
                 "repo": "core",
-                "stars": 2669,
+                "stars": 2672,
                 "topics": [
                   "module-federation",
                   "nextjs",
@@ -1905,11 +1905,11 @@
                 "id": 126595796,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T02:49:00Z",
+                "last_commit": "2026-10-28T00:07:40Z",
                 "open_issues": 29,
                 "owner": "unjs",
                 "repo": "webpackbar",
-                "stars": 2094,
+                "stars": 2095,
                 "topics": [
                   "bundler",
                   "javascript",
@@ -2053,7 +2053,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T23:15:55Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "web-infra-dev",
                 "repo": "rsdoctor",
                 "stars": 1151,
@@ -2188,11 +2188,11 @@
                 "id": 1253483476,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T09:54:08Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-28T10:44:09Z",
+                "open_issues": 35,
                 "owner": "anolilab",
                 "repo": "lunora",
-                "stars": 291,
+                "stars": 292,
                 "topics": [
                   "baas",
                   "backend",
@@ -2228,8 +2228,8 @@
                 "id": 507526151,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T21:49:26Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-27T17:21:20Z",
+                "open_issues": 22,
                 "owner": "getsentry",
                 "repo": "sentry-javascript-bundler-plugins",
                 "stars": 177,
@@ -2259,8 +2259,8 @@
                 "id": 257533548,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T06:20:06Z",
-                "open_issues": 52,
+                "last_commit": "2026-10-28T09:29:50Z",
+                "open_issues": 55,
                 "owner": "DataDog",
                 "repo": "build-plugins",
                 "stars": 111,
@@ -2633,7 +2633,7 @@
                 "id": 927022135,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T03:32:06Z",
+                "last_commit": "2026-10-27T14:52:47Z",
                 "open_issues": 5,
                 "owner": "colinaaa",
                 "repo": "typia-rspack-plugin",
@@ -2911,7 +2911,7 @@
                 "id": 1181493480,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T22:34:55Z",
+                "last_commit": "2026-10-27T20:47:12Z",
                 "open_issues": 0,
                 "owner": "oxc-project",
                 "repo": "oxc-webpack-plugin",
@@ -2995,10 +2995,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-19T15:50:56Z",
-                "open_issues": 102,
+                "open_issues": 105,
                 "owner": "tailwindlabs",
                 "repo": "tailwindcss",
-                "stars": 98130,
+                "stars": 98006,
                 "topics": [
                   "css",
                   "css-framework",
@@ -3027,7 +3027,7 @@
                 "open_issues": 21,
                 "owner": "mdx-js",
                 "repo": "mdx",
-                "stars": 19834,
+                "stars": 19835,
                 "topics": [
                   "jsx",
                   "markdown",
@@ -3056,7 +3056,7 @@
                 "open_issues": 151,
                 "owner": "gregberge",
                 "repo": "svgr",
-                "stars": 11059,
+                "stars": 11060,
                 "topics": [
                   "inline-svg",
                   "loader",
@@ -3092,7 +3092,7 @@
                 "open_issues": 67,
                 "owner": "babel",
                 "repo": "babel-loader",
-                "stars": 4836,
+                "stars": 4835,
                 "topics": [
                   "babel",
                   "loader",
@@ -3139,11 +3139,11 @@
                 "id": 16665655,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T11:00:00Z",
+                "last_commit": "2026-10-27T17:23:08Z",
                 "open_issues": 9,
                 "owner": "webpack",
                 "repo": "sass-loader",
-                "stars": 3890,
+                "stars": 3889,
                 "topics": [
                   "dart-sass",
                   "loader",
@@ -3239,7 +3239,7 @@
                 "id": 4192593,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-18T13:07:44Z",
+                "last_commit": "2026-10-27T17:29:09Z",
                 "open_issues": 10,
                 "owner": "webpack",
                 "repo": "less-loader",
@@ -3305,8 +3305,8 @@
                 "id": 14120839,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T00:11:46Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-27T17:34:58Z",
+                "open_issues": 6,
                 "owner": "webpack",
                 "repo": "stylus-loader",
                 "stars": 493,
@@ -3453,7 +3453,7 @@
                 "id": 1166243600,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T18:34:33Z",
+                "last_commit": "2026-10-27T12:27:50Z",
                 "open_issues": 1,
                 "owner": "oxc-project",
                 "repo": "oxc-webpack-loader",
@@ -3475,7 +3475,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-25T08:36:08Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "rstackjs",
                 "repo": "rspack-vue-loader",
                 "stars": 9,
@@ -3516,2918 +3516,6 @@
         {
           "children": [
             {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-react-router",
-                  "description": "Provides seamless integration with React Router.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "React Router Framework Mode adapter for Rsbuild.",
-                    "homepage": null,
-                    "id": 925509769,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-21T23:54:16Z",
-                    "open_issues": 4,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-react-router",
-                    "stars": 144,
-                    "topics": [
-                      "reacr-router",
-                      "react",
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-rsc",
-                  "description": "React Server Components (RSC) support for Rsbuild.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "RSC plugin for Rsbuild.",
-                    "homepage": null,
-                    "id": 1121668801,
-                    "language": "TypeScript",
-                    "license": null,
-                    "last_commit": "2026-10-15T03:26:42Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-rsc",
-                    "stars": 18,
-                    "topics": [
-                      "react",
-                      "react-server-components",
-                      "rsbuild",
-                      "rsc",
-                      "rspack",
-                      "rstack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-react-inspector",
-                  "description": "Allows automatic jumping to the local IDE when clicking on a browser element.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Rsbuild plugin react inspector",
-                    "homepage": null,
-                    "id": 739053962,
-                    "language": "JavaScript",
-                    "license": "MIT",
-                    "last_commit": "2025-04-20T12:23:47Z",
-                    "open_issues": 0,
-                    "owner": "hunghg255",
-                    "repo": "rsbuild-plugin-react-inspector",
-                    "stars": 13,
-                    "topics": [
-                      "inspector",
-                      "plugin",
-                      "react",
-                      "rsbuild"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-styled-components",
-                  "description": "Provides compile-time support for styled-components.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to provides compile-time support for styled-components.",
-                    "homepage": null,
-                    "id": 840697651,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-15T03:42:09Z",
-                    "open_issues": 2,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-styled-components",
-                    "stars": 3,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-react-generate-pages",
-                  "description": "Generate pages for React app based on the directory structure and configuration.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A rsbuild plugin generates pages for React applications.",
-                    "homepage": null,
-                    "id": 969417135,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2025-04-20T10:34:26Z",
-                    "open_issues": 0,
-                    "owner": "hunghg255",
-                    "repo": "rsbuild-react-generate-pages",
-                    "stars": 3,
-                    "topics": [
-                      "generate-pages",
-                      "react",
-                      "react-router-dom",
-                      "rsbuild"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "For React"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "@vue-vine/rsbuild-plugin",
-                  "description": "Rsbuild plugin for Vue Vine.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Another style of writing Vue components.",
-                    "homepage": "https://vue-vine.dev",
-                    "id": 645691031,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-24T08:55:24Z",
-                    "open_issues": 4,
-                    "owner": "vue-vine",
-                    "repo": "vue-vine",
-                    "stars": 1441,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@vizejs/rspack-plugin",
-                  "description": "High-Performance Vue.js Toolchain in Rust.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "blazing fast Vue.js toolchain. compiler, linter, type checker, formatter, lsp, story system, editors.  already 30k+ tests.",
-                    "homepage": "https://vizejs.dev",
-                    "id": 1123610216,
-                    "language": "Rust",
-                    "license": "MIT",
-                    "last_commit": "2026-10-27T10:03:02Z",
-                    "open_issues": 163,
-                    "owner": "ubugeeei-prod",
-                    "repo": "vize",
-                    "stars": 916,
-                    "topics": [
-                      "compiler",
-                      "editor-extension",
-                      "jsx",
-                      "linter",
-                      "lsp",
-                      "parser",
-                      "performance",
-                      "semantic-analysis",
-                      "sfc",
-                      "storybook",
-                      "toolchain",
-                      "tsx",
-                      "typechecker",
-                      "vapor",
-                      "vue",
-                      "vuejs"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@vue-devtools-rstack/rsbuild",
-                  "description": "Integrates Vue DevTools with Rsbuild, with feature parity with .",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Vue DevTools for Rspack and Rsbuild - full feature parity with the Vite plugin",
-                    "homepage": null,
-                    "id": 1310028365,
-                    "language": "TypeScript",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-09-23T10:09:27Z",
-                    "open_issues": 0,
-                    "owner": "OskarLebuda",
-                    "repo": "vue-devtools-rstack",
-                    "stars": 15,
-                    "topics": [
-                      "developer-tools",
-                      "devtools",
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack",
-                      "rspack-plugin",
-                      "rstack",
-                      "typescript",
-                      "vue",
-                      "vue-devtools",
-                      "vue3",
-                      "vuejs"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-vue-jsx",
-                  "description": "Provides support for Vue 3 JSX / TSX syntax.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin for Vue 3 JSX / TSX support.",
-                    "homepage": null,
-                    "id": 853971063,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-15T02:46:05Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-vue-jsx",
-                    "stars": 11,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-vue-inspector",
-                  "description": "Allows automatic jumping to the local IDE when clicking on a browser element.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Rsbuild Plugin Vue Inspector",
-                    "homepage": null,
-                    "id": 751212104,
-                    "language": "JavaScript",
-                    "license": "MIT",
-                    "last_commit": "2024-05-31T14:11:28Z",
-                    "open_issues": 0,
-                    "owner": "hunghg255",
-                    "repo": "rsbuild-plugin-vue-inspector",
-                    "stars": 10,
-                    "topics": [
-                      "inspector",
-                      "plugin",
-                      "rsbuild",
-                      "vue"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-vue2",
-                  "description": "Provides support for Vue 2 SFC (Single File Components).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to support for Vue 2 SFC (Single File Components).",
-                    "homepage": null,
-                    "id": 847144437,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-15T02:41:58Z",
-                    "open_issues": 2,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-vue2",
-                    "stars": 7,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-vue2-jsx",
-                  "description": "Provides support for Vue 2 JSX / TSX syntax.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin for Vue 2 JSX / TSX support.",
-                    "homepage": null,
-                    "id": 844069269,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-15T02:23:19Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-vue2-jsx",
-                    "stars": 7,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-vue-legacy",
-                  "description": "Support for Vue versions below 2.7 by setting an alias for .",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Support for Vue versions below 2.7 by setting an alias for vue (switch vue version in the project to 2.7)",
-                    "homepage": null,
-                    "id": 782345294,
-                    "language": "Vue",
-                    "license": "MIT",
-                    "last_commit": "2024-04-10T07:21:43Z",
-                    "open_issues": 2,
-                    "owner": "skymoonya",
-                    "repo": "rsbuild-plugin-vue-legacy",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-unplugin-vue",
-                  "description": "Integrates for Vue SFC compilation.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Rsbuild plugin that integrates unplugin-vue for Vue SFC compilation. Works seamlessly with both Rsbuild and Rslib.",
-                    "homepage": null,
-                    "id": 983267208,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-22T21:42:29Z",
-                    "open_issues": 3,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-unplugin-vue",
-                    "stars": 6,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rslib",
-                      "unplugin",
-                      "vue"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rspack-plugin-svg",
-                  "description": "Rsbuild plugin to load SVG files as Vue components, using SVGO for optimization.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "svg rspack plugin",
-                    "homepage": null,
-                    "id": 874761305,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2024-10-21T12:04:32Z",
-                    "open_issues": 0,
-                    "owner": "fuxichen",
-                    "repo": "rspack-plugin-svg",
-                    "stars": 4,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@mutsuntsai/rsbuild-plugin-vue-ssg",
-                  "description": "Generate Vue SSG contents and inject those into HTML for Rsbuild.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Generate Vue SSG contents and inject those into HTML for Rsbuild",
-                    "homepage": "https://www.npmjs.com/package/@mutsuntsai/rsbuild-plugin-vue-ssg",
-                    "id": 986774705,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-09-30T07:51:32Z",
-                    "open_issues": 0,
-                    "owner": "MuTsunTsai",
-                    "repo": "rsbuild-plugin-vue-ssg",
-                    "stars": 2,
-                    "topics": [
-                      "rsbuild-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-vue-mcp",
-                  "description": "Integrates Vue DevTools with MCP to expose Vue component trees, component state, and Pinia stores to AI tools.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Rsbuild/Rspack MCP plugin based on Vue DevTools",
-                    "homepage": null,
-                    "id": 1343597988,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-09-06T15:32:49Z",
-                    "open_issues": 0,
-                    "owner": "BrightX",
-                    "repo": "rsbuild-plugin-vue-mcp",
-                    "stars": 0,
-                    "topics": []
-                  },
-                  "first_seen": "2026-09-06T08:56:40.152Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "For Vue"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-svelte-inspector",
-                  "description": "Allows automatic jumping to the local IDE when clicking on a browser element.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Rsbuild Plugin Svelte Inspector Element",
-                    "homepage": null,
-                    "id": 750665294,
-                    "language": "JavaScript",
-                    "license": "MIT",
-                    "last_commit": "2024-05-31T14:14:37Z",
-                    "open_issues": 0,
-                    "owner": "hunghg255",
-                    "repo": "rsbuild-plugin-svelte-inspector",
-                    "stars": 8,
-                    "topics": [
-                      "inspector",
-                      "plugin",
-                      "rsbuild",
-                      "svelte"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "For Svelte"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "lynxjs-app-config-plugin",
-                  "description": "Rsbuild plugin to inject application icons, permissions and minimal app config changes into Android / iOS project folders.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A small plugin to manage app configs",
-                    "homepage": null,
-                    "id": 1074236509,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2025-10-11T14:15:40Z",
-                    "open_issues": 0,
-                    "owner": "HimanshuKumarDutt094",
-                    "repo": "lynxjs-app-config-plugin",
-                    "stars": 5,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "relog-rsbuild-plugin",
-                  "description": "Allows you to intercept calls from your LynxJS app running on a device or emulator and send them back to the Rsbuild dev server.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "🪵 Capture console logs from your LynxJS app and view them directly in your terminal — designed for use with the LynxJS Native App Framework and `rsbuild`.",
-                    "homepage": null,
-                    "id": 963020510,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2025-04-09T05:18:09Z",
-                    "open_issues": 0,
-                    "owner": "nanofuxion",
-                    "repo": "relog-rsbuild-plugin",
-                    "stars": 3,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ngrok-rsbuild-plugin",
-                  "description": "Expose your Rsbuild dev server over the internet via ngrok — built for use with the LynxJS app.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 963002858,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2025-04-09T03:09:09Z",
-                    "open_issues": 0,
-                    "owner": "nanofuxion",
-                    "repo": "ngrok-rsbuild-plugin",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "For Lynx"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "@seed-design/rsbuild-plugin",
-                  "description": "An Rsbuild plugin for the Seed design system.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "SEED Design System",
-                    "homepage": "https://seed-design.io",
-                    "id": 346700901,
-                    "language": "TypeScript",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T09:15:45Z",
-                    "open_issues": 79,
-                    "owner": "daangn",
-                    "repo": "seed-design",
-                    "stars": 1183,
-                    "topics": [
-                      "design-system"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-dts",
-                  "description": "Generate TypeScript declaration files.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Create JavaScript libraries in a simple and intuitive way.",
-                    "homepage": "https://rslib.rs",
-                    "id": 766839449,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-26T09:32:21Z",
-                    "open_issues": 31,
-                    "owner": "web-infra-dev",
-                    "repo": "rslib",
-                    "stars": 1042,
-                    "topics": [
-                      "build-tool",
-                      "bundler",
-                      "frontend",
-                      "javascript",
-                      "library",
-                      "rsbuild",
-                      "rslib",
-                      "rspack",
-                      "rstack",
-                      "typescript",
-                      "webpack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-auto-i18n-plugin",
-                  "description": "An Rsbuild plugin for automatic translation with support for multiple translation services and custom translators.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "前端自动翻译。支持有道/谷歌/百度/自定义翻译器。兼容 webpack/vite/rollup/rsbuild，适配所有编译成JS的框架，支持插值，命名空间等，帮助你一键翻译项目。",
-                    "homepage": null,
-                    "id": 686837372,
-                    "language": "Vue",
-                    "license": "MIT",
-                    "last_commit": "2026-02-01T12:06:26Z",
-                    "open_issues": 6,
-                    "owner": "auto-i18n",
-                    "repo": "auto-i18n-translation-plugins",
-                    "stars": 610,
-                    "topics": []
-                  },
-                  "first_seen": "2026-09-06T08:56:40.152Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-tailwindcss",
-                  "description": "An Rsbuild plugin to integrate with Tailwind CSS.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to integrate with Tailwind CSS V3",
-                    "homepage": null,
-                    "id": 885128921,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-27T05:19:43Z",
-                    "open_issues": 20,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-tailwindcss",
-                    "stars": 54,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack",
-                      "tailwindcss"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@webx-kit/rsbuild-plugin",
-                  "description": "Rsbuild plugin for Web eXtension development.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A tool set for Web eXtension development.",
-                    "homepage": "https://tmkx.github.io/webx-kit/",
-                    "id": 734405674,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-07-28T09:50:32Z",
-                    "open_issues": 0,
-                    "owner": "tmkx",
-                    "repo": "webx-kit",
-                    "stars": 35,
-                    "topics": [
-                      "boilerplate",
-                      "chrome",
-                      "chrome-extension",
-                      "extension",
-                      "hmr",
-                      "mv3",
-                      "react",
-                      "template",
-                      "typescript",
-                      "vue",
-                      "webpack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-image-compress",
-                  "description": "Compress the image assets.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to compress images",
-                    "homepage": null,
-                    "id": 827739308,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-14T19:50:12Z",
-                    "open_issues": 7,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-image-compress",
-                    "stars": 25,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-css-optimizer",
-                  "description": "Customize CSS minification, allowing you to choose between cssnano (JavaScript-based) or Lightning CSS (Rust-based) for high-performance CSS compression.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to customize CSS minification, allowing you to choose between cssnano (JavaScript-based) or Lightning CSS (Rust-based) for high-performance CSS compression.",
-                    "homepage": "https://www.npmjs.com/package/rsbuild-plugin-css-optimizer",
-                    "id": 977527605,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2025-05-04T16:30:46Z",
-                    "open_issues": 0,
-                    "owner": "aliezzahn",
-                    "repo": "rsbuild-plugin-css-optimizer",
-                    "stars": 25,
-                    "topics": [
-                      "css",
-                      "cssnano",
-                      "lib",
-                      "lightning-css",
-                      "plugin",
-                      "react",
-                      "rsbuild",
-                      "rspack",
-                      "rust",
-                      "webpack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-publint",
-                  "description": "Run to lint npm packages after the build.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Run `publint` to lint npm packages after the build.",
-                    "homepage": null,
-                    "id": 901764069,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-14T21:02:33Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-publint",
-                    "stars": 22,
-                    "topics": [
-                      "npm",
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rslib",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-check-syntax",
-                  "description": "Used to analyze the syntax compatibility of artifacts, to see if there are any advanced syntaxes that may cause compatibility issues.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to check the syntax compatibility of output files.",
-                    "homepage": null,
-                    "id": 837770689,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-15T02:41:51Z",
-                    "open_issues": 2,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-check-syntax",
-                    "stars": 21,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-node-polyfill",
-                  "description": "Used to inject polyfills of Node core modules in the browser side.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to automatically inject polyfills for Node.js builtin modules into the browser side.",
-                    "homepage": null,
-                    "id": 822957824,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-20T11:33:03Z",
-                    "open_issues": 2,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-node-polyfill",
-                    "stars": 19,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-source-build",
-                  "description": "This plugin is designed for the monorepo scenario. It supports referencing source code from other subdirectories and performs build and hot update.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to provide support for monorepo source code referencing.",
-                    "homepage": null,
-                    "id": 839279781,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-14T23:13:39Z",
-                    "open_issues": 3,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-source-build",
-                    "stars": 19,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-web-extension",
-                  "description": "Rsbuild plugin for Chrome/web extension.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "rsbuild plugin for chrome/web extension",
-                    "homepage": "https://rsbuild-plugin-web-extension.filc.io",
-                    "id": 773101331,
-                    "language": "TypeScript",
-                    "license": null,
-                    "last_commit": "2025-08-04T16:44:13Z",
-                    "open_issues": 1,
-                    "owner": "filc-dev",
-                    "repo": "rsbuild-plugin-web-extension",
-                    "stars": 16,
-                    "topics": [
-                      "boilerplate",
-                      "chrome",
-                      "chrome-extension",
-                      "react",
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-wasmpack",
-                  "description": "compile Rust crates to WebAssembly using wasm-pack.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A plugin for rsbuild to compile Rust crates to WebAssembly using wasm-pack",
-                    "homepage": null,
-                    "id": 892289120,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-05-25T14:18:00Z",
-                    "open_issues": 1,
-                    "owner": "im-neiru",
-                    "repo": "rsbuild-plugin-wasmpack",
-                    "stars": 15,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack",
-                      "rust",
-                      "wasm",
-                      "wasm-pack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-print",
-                  "description": "Print text, show host with qrcode.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Rsbuild Plugin Print",
-                    "homepage": null,
-                    "id": 716194070,
-                    "language": "TypeScript",
-                    "license": null,
-                    "last_commit": "2024-05-03T08:34:05Z",
-                    "open_issues": 0,
-                    "owner": "hunghg255",
-                    "repo": "rsbuild-plugin-print",
-                    "stars": 14,
-                    "topics": [
-                      "npm",
-                      "plugin",
-                      "print",
-                      "qrcode",
-                      "rsbuild"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-type-check",
-                  "description": "Used to run TypeScript type checker on a separate process.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to run TypeScript type checker in a separate process.",
-                    "homepage": null,
-                    "id": 853724982,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-14T21:10:49Z",
-                    "open_issues": 3,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-type-check",
-                    "stars": 13,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-devtools-json",
-                  "description": "Generating on the fly in the dev server.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Rsbuild plugin for generating `com.chrome.devtools.json` on the fly in the dev server.",
-                    "homepage": null,
-                    "id": 1005580589,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-15T02:41:21Z",
-                    "open_issues": 2,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-devtools-json",
-                    "stars": 12,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-assets-retry",
-                  "description": "Used to automatically resend requests when static assets fail to load.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to automatically resend requests when static assets fail to load.",
-                    "homepage": null,
-                    "id": 938056109,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-15T12:19:44Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-assets-retry",
-                    "stars": 10,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack",
-                      "rstack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-typed-css-modules",
-                  "description": "Generate TypeScript declaration files for CSS Modules.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to generate TypeScript declaration files for CSS Modules",
-                    "homepage": null,
-                    "id": 828903408,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-14T23:17:56Z",
-                    "open_issues": 6,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-typed-css-modules",
-                    "stars": 10,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-console-debug",
-                  "description": "Output debug information in the console.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Rsbuild plugin console debug",
-                    "homepage": null,
-                    "id": 720341649,
-                    "language": "TypeScript",
-                    "license": null,
-                    "last_commit": "2024-05-31T10:45:19Z",
-                    "open_issues": 0,
-                    "owner": "hunghg255",
-                    "repo": "rsbuild-plugin-console-debug",
-                    "stars": 10,
-                    "topics": [
-                      "console-debugger",
-                      "plugin",
-                      "rsbuild"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-mdx",
-                  "description": "Provide support for MDX.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to provide support for MDX.",
-                    "homepage": null,
-                    "id": 822482050,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-15T02:24:16Z",
-                    "open_issues": 2,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-mdx",
-                    "stars": 9,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-block-imports",
-                  "description": "Rsbuild plugin to detect and block forbidden imports in Module Federation builds.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Rsbuild plugin to detect and block forbidden imports during build time.",
-                    "homepage": "https://www.npmjs.com/package/rsbuild-plugin-block-imports",
-                    "id": 1115251431,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-03-17T14:27:29Z",
-                    "open_issues": 3,
-                    "owner": "malekabdelkader",
-                    "repo": "rsbuild-plugin-block-imports",
-                    "stars": 8,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-cloudflare",
-                  "description": "An Rsbuild plugin for developing and building Cloudflare Workers, with local execution in workerd.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An experimental Rsbuild plugin that runs code in workerd during dev, and builds as a Cloudflare build output.",
-                    "homepage": null,
-                    "id": 1428658002,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-26T21:24:04Z",
-                    "open_issues": 1,
-                    "owner": "james-elicx",
-                    "repo": "rsbuild-plugin-cloudflare",
-                    "stars": 8,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-24T09:07:45.137Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-virtual-module",
-                  "description": "Used to create virtual modules with loader API.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Support VirtualModules in Rsbuild. The simplest and most flexible way to build with a compiling magic 🪄",
-                    "homepage": null,
-                    "id": 955697584,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-22T15:49:42Z",
-                    "open_issues": 3,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-virtual-module",
-                    "stars": 8,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "virtual-modules"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-rem",
-                  "description": "Implements the rem adaptive layout for mobile pages.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to generate rem units from pixel units.",
-                    "homepage": null,
-                    "id": 841473172,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-15T02:42:37Z",
-                    "open_issues": 2,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-rem",
-                    "stars": 7,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-yaml",
-                  "description": "Used to import YAML files and convert them into JavaScript objects.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to import YAML files and convert them into JavaScript objects.",
-                    "homepage": null,
-                    "id": 822131925,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-14T20:51:25Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-yaml",
-                    "stars": 7,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-open-graph",
-                  "description": "Generate Open Graph meta tags.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to generate Open Graph meta tags.",
-                    "homepage": null,
-                    "id": 777016650,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-14T21:33:04Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-open-graph",
-                    "stars": 7,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-workspace-dev",
-                  "description": "Start monorepo sub-projects in topological order.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Start monorepo sub-projects in topological order.",
-                    "homepage": null,
-                    "id": 1102973295,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-20T13:33:04Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-workspace-dev",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-glsl",
-                  "description": "An Rsbuild plugin to import inline (and compress) GLSL shader.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to import inline (and compress) GLSL shader",
-                    "homepage": "https://blog.sakitam.com/rsbuild-plugin-glsl/",
-                    "id": 836317552,
-                    "language": "TypeScript",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-07-17T07:02:24Z",
-                    "open_issues": 0,
-                    "owner": "sakitam-fdd",
-                    "repo": "rsbuild-plugin-glsl",
-                    "stars": 6,
-                    "topics": [
-                      "glsl",
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-google-analytics",
-                  "description": "Setup Google Analytics in your website.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to setup Google Analytics in your website.",
-                    "homepage": null,
-                    "id": 776622725,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-14T20:58:05Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-google-analytics",
-                    "stars": 6,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-html-minifier-terser",
-                  "description": "An Rsbuild plugin to use to minify the HTML outputs.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to use `html-minifier-terser` to minify the HTML outputs.",
-                    "homepage": null,
-                    "id": 825600588,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-15T02:23:30Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-html-minifier-terser",
-                    "stars": 6,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-i18next-extractor",
-                  "description": "An Rsbuild plugin using i18next-cli to extract i18n translations.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A Rsbuild plugin for extracting i18n translations using i18next-cli.",
-                    "homepage": null,
-                    "id": 1122261287,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-04-24T06:17:50Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-i18next-extractor",
-                    "stars": 6,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-pwa",
-                  "description": "Zero-config PWA support for rsbuild",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Zero-config PWA support for rsbuild",
-                    "homepage": "https://s-r-x.github.io/rsbuild-plugin-pwa/",
-                    "id": 1189407318,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-07-22T11:58:07Z",
-                    "open_issues": 0,
-                    "owner": "s-r-x",
-                    "repo": "rsbuild-plugin-pwa",
-                    "stars": 6,
-                    "topics": [
-                      "pwa",
-                      "rsbuild",
-                      "rsbuild-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-rempa",
-                  "description": "A Rsbuild plugin designed to collect pages and generate a Multi-Page Application (MPA).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Another Rsbuild plugin to collect react pages and create an MPA.",
-                    "homepage": null,
-                    "id": 883813806,
-                    "language": "TypeScript",
-                    "license": null,
-                    "last_commit": "2025-07-10T02:56:44Z",
-                    "open_issues": 0,
-                    "owner": "sumy7",
-                    "repo": "rsbuild-plugin-rempa",
-                    "stars": 6,
-                    "topics": [
-                      "mpa",
-                      "react",
-                      "rsbuild-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-basic-ssl",
-                  "description": "Generate an untrusted, self-signed certificate for the HTTPS server.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to generate an untrusted, self-signed certificate for the HTTPS server.",
-                    "homepage": null,
-                    "id": 822632658,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-14T21:40:15Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-basic-ssl",
-                    "stars": 5,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "plugin-sails-content",
-                  "description": "Rsbuild plugin for Sails Content.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The file-based CMS for your Sails application, powered by Markdown and your view template.",
-                    "homepage": "https://docs.sailscasts.com/content",
-                    "id": 735971115,
-                    "language": "JavaScript",
-                    "license": "MIT",
-                    "last_commit": "2026-03-30T15:48:11Z",
-                    "open_issues": 1,
-                    "owner": "sailscastshq",
-                    "repo": "sails-content",
-                    "stars": 5,
-                    "topics": [
-                      "cms",
-                      "git-cms",
-                      "jsx",
-                      "markdown",
-                      "sails",
-                      "sails-hook",
-                      "vue",
-                      "waterline",
-                      "waterline-driver",
-                      "waterline-orm"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-generate-file",
-                  "description": "Generate static file and write them to dist folder after packaging.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "About Generate extra file to dist folder.",
-                    "homepage": null,
-                    "id": 754091533,
-                    "language": "TypeScript",
-                    "license": null,
-                    "last_commit": "2025-05-02T09:32:09Z",
-                    "open_issues": 0,
-                    "owner": "sumy7",
-                    "repo": "rsbuild-plugin-generate-file",
-                    "stars": 5,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-css-minimizer",
-                  "description": "Used to customize CSS minimizer, switch to cssnano or other tools for CSS compression.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild to customize the CSS minimizer, switch to cssnano or other tools for CSS compression.",
-                    "homepage": null,
-                    "id": 824090042,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-20T19:27:23Z",
-                    "open_issues": 2,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-css-minimizer",
-                    "stars": 4,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-eslint",
-                  "description": "Used to run ESLint checks during the compilation.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to run ESLint checks during the compilation.",
-                    "homepage": null,
-                    "id": 824191309,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-17T21:58:54Z",
-                    "open_issues": 3,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-eslint",
-                    "stars": 4,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-toml",
-                  "description": "Used to import TOML files and convert them into JavaScript objects.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to import TOML files and convert them to JavaScript objects.",
-                    "homepage": null,
-                    "id": 822073029,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-15T02:42:26Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-toml",
-                    "stars": 4,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-umd",
-                  "description": "Used to build outputs in UMD format.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to generate outputs in UMD format.",
-                    "homepage": null,
-                    "id": 824600723,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-21T09:58:03Z",
-                    "open_issues": 2,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-umd",
-                    "stars": 4,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-posthog",
-                  "description": "Rsbuild plugin for PostHog.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "rsbuild plugin for posthog https://posthog.com/",
-                    "homepage": null,
-                    "id": 777039686,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2024-04-08T09:57:06Z",
-                    "open_issues": 0,
-                    "owner": "m1911star",
-                    "repo": "rsbuild-plugin-posthog",
-                    "stars": 4,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-stylelint",
-                  "description": "Used to run Stylelint checks during the compilation.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to run Stylelint checks during the compilation.",
-                    "homepage": null,
-                    "id": 1113378551,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-04-28T00:18:24Z",
-                    "open_issues": 0,
-                    "owner": "zalishchuk",
-                    "repo": "rsbuild-plugin-stylelint",
-                    "stars": 4,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-arethetypeswrong",
-                  "description": "Checking TypeScript type definitions with .",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Run `arethetypeswrong` to lint npm packages after the build.",
-                    "homepage": null,
-                    "id": 1035281235,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-27T01:59:56Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-arethetypeswrong",
-                    "stars": 3,
-                    "topics": [
-                      "rsbuild",
-                      "rslib",
-                      "typescript"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-biome",
-                  "description": "Plugin for Integrating Biome into the Rsbuild Build Process.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1259382206,
-                    "language": "TypeScript",
-                    "license": null,
-                    "last_commit": "2026-09-03T10:30:02Z",
-                    "open_issues": 0,
-                    "owner": "robertpanvip",
-                    "repo": "rsbuild-plugin-lint",
-                    "stars": 3,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-compression",
-                  "description": "Compress the assets using gzip, brotli or zstd.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A compression plugin for rsbuild",
-                    "homepage": "https://s-r-x.github.io/rsbuild-plugin-compression/",
-                    "id": 1166449204,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-07-06T08:56:23Z",
-                    "open_issues": 0,
-                    "owner": "s-r-x",
-                    "repo": "rsbuild-plugin-compression",
-                    "stars": 3,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-ejs",
-                  "description": "Provide support for the EJS template engine.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to provide support for the EJS template engine.",
-                    "homepage": null,
-                    "id": 846344675,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-15T02:30:19Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-ejs",
-                    "stars": 3,
-                    "topics": [
-                      "ejs",
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-mcp",
-                  "description": "Rsbuild plugin that enables a MCP server for your Rsbuild app to provide information about your setup and modules graphs.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1073428986,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-25T21:01:10Z",
-                    "open_issues": 8,
-                    "owner": "colinaaa",
-                    "repo": "rsbuild-plugin-mcp",
-                    "stars": 3,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-oxlint",
-                  "description": "Plugin for Integrating Oxlint into the Rsbuild Build Process.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1259382206,
-                    "language": "TypeScript",
-                    "license": null,
-                    "last_commit": "2026-09-03T10:30:02Z",
-                    "open_issues": 0,
-                    "owner": "robertpanvip",
-                    "repo": "rsbuild-plugin-lint",
-                    "stars": 3,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-protobufjs",
-                  "description": "An Rsbuild plugin that integrates .",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1049477108,
-                    "language": "JavaScript",
-                    "license": null,
-                    "last_commit": "2026-05-24T16:36:23Z",
-                    "open_issues": 1,
-                    "owner": "baranwang",
-                    "repo": "rsbuild-plugin-protobufjs",
-                    "stars": 3,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-rslint",
-                  "description": "Plugin for Integrating Rslint into the Rsbuild Build Process.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1259382206,
-                    "language": "TypeScript",
-                    "license": null,
-                    "last_commit": "2026-09-03T10:30:02Z",
-                    "open_issues": 0,
-                    "owner": "robertpanvip",
-                    "repo": "rsbuild-plugin-lint",
-                    "stars": 3,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@golar-rstack/rsbuild",
-                  "description": "Runs golar type checking and type-aware linting in a separate process as an Rsbuild plugin.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Run golar, which provides native-speed type checking and type-aware linting built on typescript-go, as part of your Rspack or Rsbuild build, in a separate process.",
-                    "homepage": null,
-                    "id": 1315101478,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-07-28T22:07:53Z",
-                    "open_issues": 0,
-                    "owner": "OskarLebuda",
-                    "repo": "golar-rstack-plugin",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@plugin-cra-proxy/rsbuild",
-                  "description": "A development proxy plugin for Rsbuild, mimicking Create React App proxy behavior.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": " proxy cra like in rsbuild or vite",
-                    "homepage": null,
-                    "id": 1106062964,
-                    "language": "TypeScript",
-                    "license": null,
-                    "last_commit": "2026-08-03T07:17:56Z",
-                    "open_issues": 0,
-                    "owner": "robertpanvip",
-                    "repo": "plugin-cra-proxy",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-pug",
-                  "description": "Provides support for the Pug template engine.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin to provide support for the Pug template engine.",
-                    "homepage": null,
-                    "id": 822451776,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-14T21:31:26Z",
-                    "open_issues": 2,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-pug",
-                    "stars": 2,
-                    "topics": [
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@rsbuild/plugin-stylus",
-                  "description": "Use Stylus as the CSS preprocessor.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An Rsbuild plugin for using Stylus as the CSS preprocessor",
-                    "homepage": null,
-                    "id": 1245314874,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-27T09:40:23Z",
-                    "open_issues": 1,
-                    "owner": "rstackjs",
-                    "repo": "rsbuild-plugin-stylus",
-                    "stars": 2,
-                    "topics": [
-                      "css",
-                      "rsbuild",
-                      "rsbuild-plugin",
-                      "rspack",
-                      "stylus"
-                    ]
-                  },
-                  "first_seen": "2026-10-13T12:11:32.263Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-arco",
-                  "description": "Rsbuild plugins for Arco Design.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Rsbuild plugins for Arco Design",
-                    "homepage": null,
-                    "id": 951654582,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2025-03-20T11:44:22Z",
-                    "open_issues": 0,
-                    "owner": "zhmushan",
-                    "repo": "rsbuild-plugin-arco",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-auto-alias",
-                  "description": "Automatically generate alias based on path.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "automatically generate alias based on path",
-                    "homepage": null,
-                    "id": 886440064,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2024-11-20T07:52:35Z",
-                    "open_issues": 0,
-                    "owner": "jwyGithub",
-                    "repo": "rsbuild-plugin-auto-alias",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-cdn-import",
-                  "description": "Import modules from CDN with Rsbuild plugin.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Import modules from CDN with rsbuild plugin",
-                    "homepage": null,
-                    "id": 1063156001,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2025-10-27T03:23:55Z",
-                    "open_issues": 0,
-                    "owner": "fuxichen",
-                    "repo": "rsbuild-plugin-cdn-import",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-iconify",
-                  "description": "A Rsbuild plugin that automatically generates optimized CSS with embedded SVG icons from Iconify.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Plugin to help get icons from iconify, generate css and compress it",
-                    "homepage": null,
-                    "id": 993308195,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-10T21:12:30Z",
-                    "open_issues": 0,
-                    "owner": "pathscale",
-                    "repo": "iconify-preload",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-web-ext",
-                  "description": "A Rsbuild plugin for developing and building browser extensions.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 901052537,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2025-02-08T07:06:34Z",
-                    "open_issues": 0,
-                    "owner": "xbzhang2020",
-                    "repo": "rsbuild-plugin-web-ext",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@agney/rsbuild-content-collections",
-                  "description": "An Rsbuild plugin for Content Collections.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Rsbuild plugin for Content Collections",
-                    "homepage": null,
-                    "id": 1433548394,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-26T19:21:40Z",
-                    "open_issues": 0,
-                    "owner": "agneym",
-                    "repo": "rsbuild-content-collections",
-                    "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-27T10:03:22.019Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "@devjskit/rsbuild-plugin-langs",
-                  "description": "Extract content from JSON files and merge into a multi-language file.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Extract Content from JSON Files and Merge into a Multi-Language File",
-                    "homepage": null,
-                    "id": 863433450,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2025-02-14T07:47:09Z",
-                    "open_issues": 0,
-                    "owner": "devjskit",
-                    "repo": "rsbuild-plugin-langs",
-                    "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-aws-lambda",
-                  "description": "An Rsbuild plugin to configure rsbuild to bundle js assets suitable for AWS Lambda.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 925883962,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2025-02-02T03:30:46Z",
-                    "open_issues": 0,
-                    "owner": "wxiaoyun",
-                    "repo": "rsbuild-plugin-aws-lambda",
-                    "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-fusion",
-                  "description": "Run server code directly from any Rsbuild supported UI framework.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1335915106,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-27T03:40:16Z",
-                    "open_issues": 0,
-                    "owner": "mpaynesecurity",
-                    "repo": "rsbuild-plugin-fusion",
-                    "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-09-21T10:13:41.542Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-hydra",
-                  "description": "Turn any Rsbuild app into a lightweight fullstack framework.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1289853778,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-09-20T13:36:48Z",
-                    "open_issues": 0,
-                    "owner": "mpaynesecurity",
-                    "repo": "rsbuild-plugin-hydra",
-                    "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-09-21T10:13:41.542Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-monaco-editor-nls",
-                  "description": "An Rsbuild plugin to localize monaco-editor.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "localize monaco-editor in rsbuild",
-                    "homepage": null,
-                    "id": 861093430,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2025-08-06T05:26:07Z",
-                    "open_issues": 0,
-                    "owner": "zackshen",
-                    "repo": "rsbuild-plugin-monaco-editor-nls",
-                    "stars": 1,
-                    "topics": [
-                      "i18n",
-                      "localize",
-                      "monaco-editor",
-                      "rsbuild"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:55:56.707Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "rsbuild-plugin-ssg",
-                  "description": "Prerender pages at build time with zero-JS by default and Islands Architecture support.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Static Site Generation plugin for Rsbuild.",
-                    "homepage": null,
-                    "id": 1358448137,
-                    "language": "TypeScript",
-                    "license": "MIT",
-                    "last_commit": "2026-10-09T16:04:06Z",
-                    "open_issues": 0,
-                    "owner": "jhanca-vm",
-                    "repo": "rsbuild-plugin-ssg",
-                    "stars": 1,
-                    "topics": [
-                      "islands-architecture",
-                      "preact",
-                      "react",
-                      "rsbuild-plugin",
-                      "ssg",
-                      "svelte",
-                      "vue"
-                    ]
-                  },
-                  "first_seen": "2026-09-11T09:09:18.797Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Common"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Rsbuild Plugins"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "@rspress/plugin-typedoc",
-              "description": "Integrate TypeDoc, used to generate API documentation of TS module automatically.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Documentation generator for TypeScript projects.",
-                "homepage": "https://typedoc.org",
-                "id": 20131603,
-                "language": "TypeScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-07-13T01:33:41Z",
-                "open_issues": 25,
-                "owner": "TypeStrong",
-                "repo": "typedoc",
-                "stars": 8452,
-                "topics": [
-                  "documentation",
-                  "generator",
-                  "typescript"
-                ]
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "@rspress/plugin-rss",
-              "description": "Generates RSS files for specific document pages with feed.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀",
-                "homepage": "https://github.com/jpmonette/feed",
-                "id": 8399224,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-09-12T23:02:33Z",
-                "open_issues": 31,
-                "owner": "jpmonette",
-                "repo": "feed",
-                "stars": 1408,
-                "topics": [
-                  "atom",
-                  "feed",
-                  "javascript",
-                  "json-feed",
-                  "nodejs",
-                  "rss",
-                  "syndication",
-                  "typescript"
-                ]
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-align-image",
-              "description": "Rspress plugin to align images in markdown.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugins",
-                "homepage": null,
-                "id": 780437989,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-20T03:23:47Z",
-                "open_issues": 4,
-                "owner": "rstackjs",
-                "repo": "rspress-plugins",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-directives",
-              "description": "Rspress plugin for custom directives support.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugins",
-                "homepage": null,
-                "id": 780437989,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-20T03:23:47Z",
-                "open_issues": 4,
-                "owner": "rstackjs",
-                "repo": "rspress-plugins",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-file-tree",
-              "description": "Rspress plugin that add tree view for file structure display.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugins",
-                "homepage": null,
-                "id": 780437989,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-20T03:23:47Z",
-                "open_issues": 4,
-                "owner": "rstackjs",
-                "repo": "rspress-plugins",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-gh-pages",
-              "description": "Rspress plugin to add support for automatic deployment to GitHub Pages.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugins",
-                "homepage": null,
-                "id": 780437989,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-20T03:23:47Z",
-                "open_issues": 4,
-                "owner": "rstackjs",
-                "repo": "rspress-plugins",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-google-analytics",
-              "description": "Rspress plugin for Google Analytics integration.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugins",
-                "homepage": null,
-                "id": 780437989,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-20T03:23:47Z",
-                "open_issues": 4,
-                "owner": "rstackjs",
-                "repo": "rspress-plugins",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-katex",
-              "description": "Rspress plugin to add support for rendering math equations using KaTeX.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugins",
-                "homepage": null,
-                "id": 780437989,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-20T03:23:47Z",
-                "open_issues": 4,
-                "owner": "rstackjs",
-                "repo": "rspress-plugins",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-live2d",
-              "description": "Rspress plugin for live2d, powered by on-my-live2d.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugins",
-                "homepage": null,
-                "id": 780437989,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-20T03:23:47Z",
-                "open_issues": 4,
-                "owner": "rstackjs",
-                "repo": "rspress-plugins",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-mermaid",
-              "description": "Rspress plugin to render Mermaid diagrams in markdown files.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugins",
-                "homepage": null,
-                "id": 780437989,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-20T03:23:47Z",
-                "open_issues": 4,
-                "owner": "rstackjs",
-                "repo": "rspress-plugins",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-reading-time",
-              "description": "Rspress plugin to display reading time for your document pages.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugins",
-                "homepage": null,
-                "id": 780437989,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-20T03:23:47Z",
-                "open_issues": 4,
-                "owner": "rstackjs",
-                "repo": "rspress-plugins",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-supersub",
-              "description": "Rspress plugin to add superscript() and subscript() support.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugins",
-                "homepage": null,
-                "id": 780437989,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-20T03:23:47Z",
-                "open_issues": 4,
-                "owner": "rstackjs",
-                "repo": "rspress-plugins",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-vercel-analytics",
-              "description": "Rspress plugin for Vercel Analytics integration.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugins",
-                "homepage": null,
-                "id": 780437989,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-20T03:23:47Z",
-                "open_issues": 4,
-                "owner": "rstackjs",
-                "repo": "rspress-plugins",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-shiki",
-              "description": "Rspress plugin shiki with transformer.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugin shiki with transformer",
-                "homepage": "https://rspress-plugin-shiki.surge.sh/plugin/index.html",
-                "id": 733291107,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2024-04-01T20:43:59Z",
-                "open_issues": 1,
-                "owner": "hunghg255",
-                "repo": "rspress-plugin-shiki",
-                "stars": 11,
-                "topics": [
-                  "plugins",
-                  "rspress",
-                  "shiki-highlighter",
-                  "transformer"
-                ]
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-remote-page",
-              "description": "Load remote markdown file (e.g. README.md) onto your website.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An Rspress plugin to seamlessly load remote markdown file (e.g. README.md) onto your website.",
-                "homepage": null,
-                "id": 709948538,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2023-10-26T19:16:37Z",
-                "open_issues": 0,
-                "owner": "ulivz",
-                "repo": "rspress-plugin-remote-page",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-mention-github",
-              "description": "Rspress plugin mention github user, or any link.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugin mention",
-                "homepage": "https://rspress-plugin-mention-github.vercel.app",
-                "id": 811795224,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2024-06-08T02:07:54Z",
-                "open_issues": 1,
-                "owner": "hunghg255",
-                "repo": "rspress-plugin-mention-github",
-                "stars": 8,
-                "topics": [
-                  "rspress",
-                  "rspress-plugin"
-                ]
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-changelog",
-              "description": "Generates changelog pages, fetching release information from GitHub and GitLab repositories.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 869943258,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2025-10-26T09:02:24Z",
-                "open_issues": 0,
-                "owner": "baranwang",
-                "repo": "rspress-plugin-changelog",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-font-open-sans",
-              "description": "Use Open Sans as the default font in your Rspress website.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Use Open Sans as the default font in your Rspress website.",
-                "homepage": null,
-                "id": 775872023,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-14T22:05:21Z",
-                "open_issues": 1,
-                "owner": "rstackjs",
-                "repo": "rspress-plugin-font-open-sans",
-                "stars": 6,
-                "topics": [
-                  "plugin",
-                  "rspress"
-                ]
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-language-tabs",
-              "description": "An Rspress component for creating tabbed code examples with programming language icons.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress component for creating tabbed code examples with programming language icons",
-                "homepage": "https://maccuaa.github.io/rspress-language-tabs/",
-                "id": 1087940122,
-                "language": "MDX",
-                "license": "MIT",
-                "last_commit": "2026-10-26T04:59:32Z",
-                "open_issues": 2,
-                "owner": "maccuaa",
-                "repo": "rspress-language-tabs",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-sitemap",
-              "description": "Automatically generate SEO-related sitemaps.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 802123382,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2025-08-28T13:01:56Z",
-                "open_issues": 0,
-                "owner": "jl917",
-                "repo": "rspress-plugin-sitemap",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-translate",
-              "description": "Automatically translate your content behind the scenes using GPT's.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Automatically translate your content behind the scenes using GPT's.",
-                "homepage": null,
-                "id": 733861804,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2024-01-03T06:55:06Z",
-                "open_issues": 0,
-                "owner": "byteHulk",
-                "repo": "rspress-plugin-translate",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "@seshuk/rspress-plugin-scalar",
-              "description": "Renders interactive Scalar API reference pages from OpenAPI specifications.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugin to render Scalar API Reference from an OpenAPI spec",
-                "homepage": "https://www.npmjs.com/package/@seshuk/rspress-plugin-scalar",
-                "id": 1238078479,
-                "language": "CSS",
-                "license": "MIT",
-                "last_commit": "2026-05-19T12:11:25Z",
-                "open_issues": 0,
-                "owner": "maximseshuk",
-                "repo": "rspress-plugin-scalar",
-                "stars": 4,
-                "topics": [
-                  "api-reference",
-                  "openapi",
-                  "rspress",
-                  "rspress-plugin",
-                  "scalar",
-                  "swagger"
-                ]
-              },
-              "first_seen": "2026-09-06T08:56:40.152Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-viz",
-              "description": "Add Graphviz support for Rspress using .",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress plugin for viz-js.",
-                "homepage": "https://rspress-plugin-viz.edev.uno",
-                "id": 1264117782,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2026-09-18T03:04:25Z",
-                "open_issues": 1,
-                "owner": "elecmonkey",
-                "repo": "rspress-plugin-viz",
-                "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-09-03T09:12:27.006Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-font-figtree",
-              "description": "Use Figtree as the default font in your Rspress website.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Use Figtree as the default font in your Rspress website. ",
-                "homepage": null,
-                "id": 988739500,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-26T04:44:33Z",
-                "open_issues": 2,
-                "owner": "maccuaa",
-                "repo": "rspress-plugin-font-figtree",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "@kazamori/rspress-plugin-git-diff",
-              "description": "Shows the git history of documentation pages: changes marked on the page, a recent changes page, and the history of each page.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rspress v2 plugin that shows readers what changed on each docs page, with on-page diffs and a recent changes log built from git history.",
-                "homepage": "https://kazamori.github.io/rspress-plugin-git-diff/",
-                "id": 1420389896,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-16T03:14:20Z",
-                "open_issues": 3,
-                "owner": "kazamori",
-                "repo": "rspress-plugin-git-diff",
-                "stars": 2,
-                "topics": [
-                  "changelog",
-                  "rspress-plugin"
-                ]
-              },
-              "first_seen": "2026-10-16T09:18:14.760Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-pdf-generator",
-              "description": "Generates multi-language single-page or multi-page PDF documents from Rspress site during build process.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Generate PDF files from your Rspress site",
-                "homepage": null,
-                "id": 1212283077,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2026-04-16T08:20:36Z",
-                "open_issues": 0,
-                "owner": "MaxtuneLee",
-                "repo": "rspress-plugin-pdf-generator",
-                "stars": 2,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-typesense",
-              "description": "Integrates Typesense for typo-tolerant search.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A plugin that brings lightning-fast, typo-tolerant search powered by Typesense to your Rspress site.",
-                "homepage": null,
-                "id": 1191855384,
-                "language": "TypeScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-14T15:23:06Z",
-                "open_issues": 0,
-                "owner": "typesense",
-                "repo": "rspress-plugin-typesense",
-                "stars": 2,
-                "topics": [
-                  "documentation-search",
-                  "plugin",
-                  "rspress",
-                  "rspress-plugin",
-                  "search",
-                  "typesense"
-                ]
-              },
-              "first_seen": "2026-09-06T08:56:40.152Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-annotation-words",
-              "description": "An Rspress plugin to support annotation words.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 876728873,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2024-11-04T09:38:01Z",
-                "open_issues": 0,
-                "owner": "2heal1",
-                "repo": "rspress-plugin-annotation-words",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-clarity",
-              "description": "Rspress plugin for Clarity integration.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 800753106,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2024-05-18T12:27:00Z",
-                "open_issues": 1,
-                "owner": "jl917",
-                "repo": "rspress-plugin-clarity",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-pinyin-search",
-              "description": "Adds local search for Chinese content using full pinyin or pinyin initials.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1431128624,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2026-10-23T14:16:15Z",
-                "open_issues": 0,
-                "owner": "buyfakett",
-                "repo": "rspress-plugin-pinyin-search",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-10-27T10:03:22.019Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-auto-sidebar",
-              "description": "Automatically generate the sidebar from the navbar configuration.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "通过 navbar 自动生成生成 sidebar",
-                "homepage": null,
-                "id": 1169740587,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2026-07-24T06:41:03Z",
-                "open_issues": 0,
-                "owner": "buyfakett",
-                "repo": "rspress-plugin-auto-sidebar",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-blog-list",
-              "description": "Integrate blog list into Rspress.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "在网站中展示博客文章列表",
-                "homepage": "https://www.tteam.icu",
-                "id": 1188543142,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2026-07-24T06:21:53Z",
-                "open_issues": 0,
-                "owner": "buyfakett",
-                "repo": "rspress-plugin-blog-list",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            },
-            {
-              "node_type": "item",
-              "title": "rspress-plugin-giscus",
-              "description": "Integrate giscus into Rspress, a comment system powered by GitHub Discussions.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "集成 https://github.com/giscus/giscus到 rspress",
-                "homepage": "https://www.tteam.icu",
-                "id": 1155245615,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2026-02-12T12:00:37Z",
-                "open_issues": 0,
-                "owner": "buyfakett",
-                "repo": "rspress-plugin-giscus",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:55:56.707Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Rspress Plugins"
-        },
-        {
-          "children": [
-            {
               "node_type": "item",
               "title": "unplugin-icons",
               "description": "Access thousands of icons as components on-demand universally.",
@@ -6443,7 +3531,7 @@
                 "open_issues": 88,
                 "owner": "unplugin",
                 "repo": "unplugin-icons",
-                "stars": 4959,
+                "stars": 4960,
                 "topics": [
                   "iconify",
                   "icons",
@@ -6525,7 +3613,7 @@
                 "id": 456739054,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T09:39:24Z",
+                "last_commit": "2026-10-28T05:59:45Z",
                 "open_issues": 38,
                 "owner": "vue-macros",
                 "repo": "vue-macros",
@@ -6560,8 +3648,8 @@
                 "id": 372805929,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-03T17:04:52Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-28T10:25:17Z",
+                "open_issues": 21,
                 "owner": "qmhc",
                 "repo": "unplugin-dts",
                 "stars": 1531,
@@ -6671,7 +3759,7 @@
                 "id": 343279550,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T04:01:00Z",
+                "last_commit": "2026-10-27T14:34:21Z",
                 "open_issues": 26,
                 "owner": "intlify",
                 "repo": "bundle-tools",
@@ -6697,7 +3785,7 @@
                 "id": 402409065,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T18:34:26Z",
+                "last_commit": "2026-10-28T04:04:27Z",
                 "open_issues": 13,
                 "owner": "element-plus",
                 "repo": "unplugin-element-plus",
@@ -6853,8 +3941,8 @@
                 "id": 702187951,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T06:37:15Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-27T11:46:12Z",
+                "open_issues": 25,
                 "owner": "anolilab",
                 "repo": "unplugin-favicons",
                 "stars": 10,
@@ -6936,7 +4024,7 @@
                 "id": 967405440,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T18:10:17Z",
+                "last_commit": "2026-10-28T02:04:02Z",
                 "open_issues": 3,
                 "owner": "luxass",
                 "repo": "unplugin-build-meta",
@@ -6972,11 +4060,11 @@
             "id": 382378702,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T09:01:48Z",
-            "open_issues": 57,
+            "last_commit": "2026-10-28T09:44:02Z",
+            "open_issues": 51,
             "owner": "web-infra-dev",
             "repo": "modern.js",
-            "stars": 5049,
+            "stars": 5050,
             "topics": [
               "boilerplate",
               "build-tool",
@@ -7003,8 +4091,8 @@
             "id": 886562005,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T09:59:01Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-28T10:44:18Z",
+            "open_issues": 33,
             "owner": "web-infra-dev",
             "repo": "rstest",
             "stars": 512,
@@ -7032,8 +4120,8 @@
             "id": 886562005,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T09:59:01Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-28T10:44:18Z",
+            "open_issues": 33,
             "owner": "web-infra-dev",
             "repo": "rstest",
             "stars": 512,
@@ -7061,8 +4149,8 @@
             "id": 886562005,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T09:59:01Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-28T10:44:18Z",
+            "open_issues": 33,
             "owner": "web-infra-dev",
             "repo": "rstest",
             "stars": 512,
@@ -7448,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T10:03:22.019Z",
+    "last_updated": "2026-10-28T10:50:09.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Rstack.",
@@ -7456,7 +4544,7 @@
       "id": 719008997,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-27T08:33:18Z",
+      "last_commit": "2026-10-28T07:53:07Z",
       "open_issues": 1,
       "owner": "rstackjs",
       "repo": "awesome-rstack",
@@ -7475,7 +4563,7 @@
         "rstest"
       ]
     },
-    "original_repository_sha": "67ffb5910914c759efb0b7794a6421ae3fc45bc8",
+    "original_repository_sha": "28123e02e9c0f65685a08fbc77ff87d5eaa667f7",
     "enhanced_repository": "enhansome/enhansome-rstack",
     "enhanced_repository_description": null,
     "title": "Awesome rstack with stars"
